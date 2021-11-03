@@ -1,0 +1,574 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Erident\n"
+"POT-Creation-Date: 2017-11-29 13:39+0530\n"
+"PO-Revision-Date: 2017-11-29 13:40+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: er-custom-login.php:44
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: er-custom-login.php:57
+msgid "Support"
+msgstr "Destek"
+
+#: er-custom-login.php:271
+msgid "Please upload a valid .json file"
+msgstr "Lütfen geçerli bir .json dosyası yükleyin"
+
+#: er-custom-login.php:277
+msgid "Please upload a file to import"
+msgstr "Lütfen içe aktaracağınız dosyayı upload ediniz"
+
+#: er-custom-login.php:284
+msgid "New settings imported successfully!"
+msgstr "Yeni ayarlar başarı ile içe aktarıldı"
+
+#: er-custom-login.php:365
+msgid "Custom Login and Dashboard"
+msgstr "Giriş ve Başlangıç Ekranı Düzenleme Bölümü"
+
+#: er-custom-login.php:386
+msgid "Erident Custom Login and Dashboard Settings"
+msgstr "Erident Login ve Dashboard Ayarlarını Düzenleme"
+
+#: er-custom-login.php:387
+msgid ""
+"Plugin Loads default values for all below entries. Please change the values "
+"to yours."
+msgstr "Eklenti varsayılan değerleri "
+
+#: er-custom-login.php:387
+msgid "Click on the header of each block to open it."
+msgstr "Başlıklara tıklayarak ayarlarını açabilirsiniz."
+
+#: er-custom-login.php:395
+msgid "Settings saved."
+msgstr "Ayarlar kaydedildi"
+
+#: er-custom-login.php:405
+msgid "Dashboard Settings"
+msgstr "Başlangıç Ayarları"
+
+#: er-custom-login.php:406
+msgid ""
+"(These settings will be reflected when a user/admin logins to the WordPress "
+"Dashboard)"
+msgstr ""
+"(Bu ayarlar bir Kullanıcı ya da Yönetici WordPress Başlangıç bölümüne "
+"girdiğinde gözükecektir)"
+
+#: er-custom-login.php:411
+msgid "Enter the text for dashboard left side footer:"
+msgstr "Başlangıç bölümünde sol alt köşede bulunan metni değiştirin:"
+
+#: er-custom-login.php:416
+msgid ""
+"This will replace the default \"Thank you for creating with WordPress\" on "
+"the bottom left side of dashboard"
+msgstr ""
+"Burası başlangıç ekraninda sol alttaki varsayılan \"Wordpress Versiyon\"u "
+"değiştirecektir"
+
+#: er-custom-login.php:420
+msgid "Enter the text for dashboard right side footer:"
+msgstr "Başlangıç bölümünde sağ alt köşede bulunan metni değiştirin:"
+
+#: er-custom-login.php:424
+msgid ""
+"This will replace the default \"WordPress Version\" on the bottom right side "
+"of dashboard. Keep it as empty field for disabling this feature. Refresh the "
+"page again to see the result after saving."
+msgstr ""
+"Burası başlangıç ekraninda sağ alttaki varsayılan \"Wordpress Versiyon\"u "
+"değiştirecektir. Bu özelliği devre dışı bırakmak için boş alan olarak tutun. "
+"Kaydettikten sonra sonucu görmek için tekrar sayfayı yenileyin."
+
+#: er-custom-login.php:433
+msgid "Login Screen Background"
+msgstr "Giriş Ekranı Arkaplanı"
+
+#: er-custom-login.php:434
+msgid "(The following settings will be reflected on the \"wp-login.php\" page)"
+msgstr "(Aşağıdaki ayarlar \"wp-login.php\" sayfasını etkileyecektir)"
+
+#: er-custom-login.php:439
+msgid "Login Screen Background Color:"
+msgstr "Giriş Ekranı Arkaplan Rengi"
+
+#: er-custom-login.php:444 er-custom-login.php:654 er-custom-login.php:766
+#: er-custom-login.php:794 er-custom-login.php:823 er-custom-login.php:835
+#: er-custom-login.php:846
+msgid "Click the box to select a color."
+msgstr "Renk seçmek için kutucuğa tıklayınız"
+
+#: er-custom-login.php:449
+msgid "Login Screen Background Image:"
+msgstr "Giriş Ekranı Arkaplan Resmi:"
+
+#: er-custom-login.php:451 er-custom-login.php:669
+msgid "Add Background Image"
+msgstr "Arka Plan Resim Ekle"
+
+#: er-custom-login.php:453
+msgid ""
+"Add your own pattern/image url for the screen background. Leave blank if you "
+"don't need any images."
+msgstr ""
+"Arkaplan olarak kendi deseninizi veya görselinizin linkini ekleyin. Eğer "
+"fotoğraf eklemeyecekseniz , boş bırakın"
+
+#: er-custom-login.php:457
+msgid "Login Screen Background Repeat"
+msgstr "Oturum açma ekranı arka plan tekrarlayın"
+
+#: er-custom-login.php:495 er-custom-login.php:713
+msgid "Select an image repeat option from dropdown."
+msgstr "Açılan listeden bir görüntü yineleme seçeneğini seçin."
+
+#: er-custom-login.php:499 er-custom-login.php:718
+msgid "Background Position:"
+msgstr "Arkaplan Pozisyonu:"
+
+#: er-custom-login.php:500 er-custom-login.php:719
+msgid "Horizontal Position: "
+msgstr "Yatay konumu:"
+
+#: er-custom-login.php:505 er-custom-login.php:724
+msgid ""
+"The background-position property sets the starting position of a background "
+"image. If you entering the value in \"pixels\" or \"percentage\", add \"px\" "
+"or \"%\" at the end of value. This will not show any changes if you set the "
+"Background Repeat option as \"Repeat\". <a href=\"http://www.w3schools.com/"
+"cssref/pr_background-position.asp\" target=\"_blank\">More Info</a>"
+msgstr ""
+"Arkaplan-pozisyonu özelliği arkaplan resminin pozisyonunu ayarlar . Eğer "
+"girdiğiniz değerler \"pixels\"  veya \"percentage\", değerlerin sonuna  \"px"
+"\" veya \"%\" ekleyin .Eğer Arkaplan Tekrar ayarını \"Repeat\". <a href="
+"\"http://www.w3schools.com/cssref/pr_background-position.asp\" target="
+"\"_blank\">Daha Fazla Bilgi</a> yaparsanız , bir değişiklik "
+"göstermeyecektir ."
+
+#: er-custom-login.php:510
+msgid "Background Size:"
+msgstr "Arkaplan Boyutu:"
+
+#: er-custom-login.php:514
+msgid ""
+"The background-size property specifies the size of a background image. If "
+"you entering the value in \"pixels\" or \"percentage\", add \"px\" or \"%\" "
+"at the end of value. Possible values: auto, length, percentage, cover, "
+"contain. <a href=\"http://www.w3schools.com/cssref/css3_pr_background-size."
+"asp\" target=\"_blank\">More Info</a>"
+msgstr ""
+"Background-boyutlu özelliği arka plan görüntüsünün boyutunu belirtir . Eğer "
+"girdiğiniz değerler \"pixels\"  veya \"percentage\", değerlerin sonuna  \"px"
+"\" veya \"%\" ekleyin . Olası değerler otomatik,uzunluk,yüzde,kapak,içerik "
+"<a href=\"http://www.w3schools.com/cssref/css3_pr_background-size.asp\" "
+"target=\"_blank\">Daha fazla Bilgi</a>"
+
+#: er-custom-login.php:525
+msgid "Login Screen Logo"
+msgstr "Giriş Ekranı Logosu"
+
+#: er-custom-login.php:526
+msgid "(Change the default WordPress logo and powered by text)"
+msgstr ""
+"(Varsayılan Wordpress logosu ve Mouse üzerine gelince gelen yazıyı "
+"değiştirin)"
+
+#: er-custom-login.php:531
+msgid "Logo Url:"
+msgstr "Logo Url'si:"
+
+#: er-custom-login.php:533
+msgid "Add Logo"
+msgstr "Logo ekle"
+
+#: er-custom-login.php:535
+msgid ""
+"(URL path to image to replace default WordPress Logo. (You can upload your "
+"image with the WordPress media uploader)"
+msgstr ""
+"(Link varsayılan WordPress Logosunu değiştirecektir. (Wordpress medya "
+"yükleyicisi ile resim yükleyebilirsiniz)"
+
+#: er-custom-login.php:540
+msgid "Logo Width:"
+msgstr "Logo Genişliği:"
+
+#: er-custom-login.php:544
+msgid "Your Logo width(Enter in pixels). Default: 274px"
+msgstr "Logonuzun Genişliği(Piksel olarak giriniz). Varsayılan 274 pikseldir"
+
+#: er-custom-login.php:548
+msgid "Logo Height:"
+msgstr "Logo Yüksekliği"
+
+#: er-custom-login.php:552
+msgid "Your Logo Height(Enter in pixels). Default: 63px"
+msgstr "Logonuzun Yüksekliği(Piksel olarak giriniz). Varsayılan 274 pikseldir"
+
+#: er-custom-login.php:557
+msgid "Powered by Text:"
+msgstr "Mouse'unuz logonun üzerine gelince yazacak olan metin"
+
+#: er-custom-login.php:561
+msgid "Show when mouse hover over custom Login logo"
+msgstr "Mouse'unuz giriş logosunun üstüne gelince vurgulayın"
+
+#: er-custom-login.php:571
+msgid "Login Form Settings"
+msgstr "Giriş Formu Ayarları"
+
+#: er-custom-login.php:572
+msgid "(The following settings will change the Login Form style)"
+msgstr "(Aşağıdaki ayarlar , Giriş formu stilini değiştirecektir)"
+
+#: er-custom-login.php:577
+msgid "Login form width:"
+msgstr "Giriş formu genişliği:"
+
+#: er-custom-login.php:581
+msgid "Total Form width(Enter in pixels). Default: 350px"
+msgstr "Toplam form genişliği(Piksel olarak giriniz). Varsayılan : 350 Piksel"
+
+#: er-custom-login.php:585
+msgid "Login Form Border Radius:"
+msgstr "Giriş formu çerçeve Çapı"
+
+#: er-custom-login.php:589
+msgid ""
+"Border Radius of Login Form. This is the option to make the corners rounded."
+"(Enter in pixels)"
+msgstr ""
+"Giriş formundaki çerçeve çapını girin . Bu ayar köşeler yuvarlak ise "
+"kullanılır(Piksel olarak girin)"
+
+#: er-custom-login.php:593
+msgid "Login Border Style"
+msgstr "Giriş çerçeve stili"
+
+#: er-custom-login.php:637
+msgid "Select a Border Style option from dropdown."
+msgstr "Bir çerçeve stili seçin"
+
+#: er-custom-login.php:641
+msgid "Login Border Thickness:"
+msgstr "Giriş çerçevesi kalınlığı:"
+
+#: er-custom-login.php:645
+msgid "Thickness of Border (Enter value in pixels)"
+msgstr "Çerçevenin kalınlığı (değerleri piksel olarak giriniz)"
+
+#: er-custom-login.php:649
+msgid "Login Border Color:"
+msgstr "Giriş çerçeve rengi:"
+
+#: er-custom-login.php:658
+msgid "Login Form Background Color:"
+msgstr "Giriş Formu Arkaplan Rengi:"
+
+#: er-custom-login.php:662
+msgid "Background Opacity: "
+msgstr "Arkaplan Saydamlığı:"
+
+#: er-custom-login.php:664
+msgid ""
+"Click the box to select a color. Background Opacity will helps you to put "
+"transparent color over a background image. Possible values 0 to 1. Example: "
+"0.5 means 50% transparency. Default: 1 <a href=\"https://wordpress.org/"
+"plugins/erident-custom-login-and-dashboard/faq/\" target=\"_blank\">More "
+"Info</a>"
+msgstr ""
+"Renk seçmek için kutuya tıklayınız .Arkaplan saydamlığı size arkaplan "
+"resminin üzerine transparanlık eklemede yardımcı olaraktır .Olası değerler 0 "
+"dan 1'e kadardır . Örneğin 0.5 %50 saydamlık demektir . Varsayılan 1'dir <a "
+"href=\"https://wordpress.org/plugins/erident-custom-login-and-dashboard/faq/"
+"\" target=\"_blank\">Daha Fazla Bilgi</a>"
+
+#: er-custom-login.php:668
+msgid "Login Form Background Image:"
+msgstr "Giriş Ekranı Arkaplan Resmi:"
+
+#: er-custom-login.php:671
+msgid ""
+"Add your own pattern/image url to the form background. Leave blank if you "
+"don't need any images."
+msgstr ""
+"Arkaplan olarak kendi deseninizi veya görselinizin linkini ekleyin. Eğer "
+"fotoğraf eklemeyecekseniz , boş bırakın"
+
+#: er-custom-login.php:675
+msgid "Login Form Background Repeat"
+msgstr "Giriş Ekranı Arkaplanı"
+
+#: er-custom-login.php:721
+msgid "Vertical Position: "
+msgstr "Diket Pozisyon:"
+
+#: er-custom-login.php:729
+msgid "Login Form Label Text Color"
+msgstr "Giriş Formu etiketi metin rengi"
+
+#: er-custom-login.php:734
+msgid ""
+"Click the box to select a color. This will change the color of label "
+"Username/Password"
+msgstr ""
+"Renk seçmek için kutuya tıklayınız .Bu ayar Kullanıcı Adı/Şifre etiketinin "
+"rengini değiştirecektir."
+
+#: er-custom-login.php:738
+msgid "Login Form Label Text Size:"
+msgstr "Giriş formu etiketi metin boyutu:"
+
+#: er-custom-login.php:741
+msgid "Font Size of Label Username/Password(Enter value in pixels)"
+msgstr ""
+"Kullanıcı Adı/Şifre etiketlerinin Yazı boyutu?(Değeri piksel olarak giriniz)"
+
+#: er-custom-login.php:745
+msgid "Login Form Input Text Color"
+msgstr "Giriş formu metin rengi"
+
+#: er-custom-login.php:750
+msgid ""
+"Click the box to select a color. This will change the color of text inside "
+"text box."
+msgstr ""
+"Renk seçmek için kutuya tıklayınız .Bu ayar metin kutusunun içindeki metnin "
+"rengini değiştirecektir."
+
+#: er-custom-login.php:754
+msgid "Login Form Input Text Size:"
+msgstr "Giriş Formu girilen metin boyutu:"
+
+#: er-custom-login.php:757
+msgid "Font Size of text inside text box(Enter value in pixels)"
+msgstr "Metin kutusunun içindeki yazı boyutu(Değeri piksel olarak giriniz)"
+
+#: er-custom-login.php:761
+msgid "Login Form Link Color"
+msgstr "Giriş formu bağlantı rengi"
+
+#: er-custom-login.php:771
+msgid "Enable link shadow?"
+msgstr "Linklerdeki gölgelemeyi aktifleştir ?"
+
+#: er-custom-login.php:779 er-custom-login.php:808 er-custom-login.php:860
+#: er-custom-login.php:881 er-custom-login.php:912
+msgid "Yes"
+msgstr "Evet"
+
+#: er-custom-login.php:783 er-custom-login.php:812 er-custom-login.php:864
+#: er-custom-login.php:885 er-custom-login.php:916
+msgid "No"
+msgstr "Hayır"
+
+#: er-custom-login.php:785 er-custom-login.php:814 er-custom-login.php:866
+#: er-custom-login.php:887
+msgid "(Check an option)"
+msgstr "(Bir seçenek seçin)"
+
+#: er-custom-login.php:789
+msgid "Login Form Link Shadow Color"
+msgstr "Giriş Formu Bağlantısı Gölge Rengi"
+
+#: er-custom-login.php:800
+msgid "Enable form shadow?"
+msgstr "Gölgeleri Aktifleştir?"
+
+#: er-custom-login.php:818
+msgid "Login Form Shadow Color"
+msgstr "Giriş Formu Gölge Rengi"
+
+#: er-custom-login.php:830
+msgid "Login Button Color"
+msgstr "Giriş Yap butonu rengi"
+
+#: er-custom-login.php:841
+msgid "Login Button Text Color"
+msgstr "Giriş Düğmesi Metin Rengi"
+
+#: er-custom-login.php:852
+msgid "Hide Register | Lost your password link"
+msgstr "Kayıt Gizle | Şifre bağlantınızı kaybettiniz"
+
+#: er-custom-login.php:873
+msgid "Hide Back to your website link"
+msgstr "Web sitenize geri dön bağlantısını gizle"
+
+#: er-custom-login.php:899
+msgid "Plugin Un-install Settings"
+msgstr "Eklenti Silme Ayarları."
+
+#: er-custom-login.php:904
+msgid "Delete custom settings upon plugin deactivation?"
+msgstr "Yapılan ayarları sil ve eklentiyi etkinsizleştir ?"
+
+#: er-custom-login.php:918
+msgid ""
+"(If you set \"Yes\" all custom settings will be deleted from database upon "
+"plugin deactivation)"
+msgstr ""
+"(Eğer  \"Yes\" i seçerseniz bütün düzenlenen ayarlar veritabanınızdan "
+"silinecek eklentiyi etkinsizleştirecektir)"
+
+#: er-custom-login.php:926
+msgid "Save Changes"
+msgstr "Değişiklikleri Kaydet"
+
+#: er-custom-login.php:933
+msgid "Export Settings"
+msgstr "Ayarları dışa aktar"
+
+#: er-custom-login.php:935
+msgid ""
+"Export the plugin settings for this site as a .json file. This allows you to "
+"easily import the configuration into another site."
+msgstr ""
+"Bu sitenizin eklenti ayarlarını .json dosyası olarak dışa aktarabilirsiniz. "
+"Böylece ayarlarınızı kolaylıkla başka bir siteye aktarabilirsiniz ."
+
+#: er-custom-login.php:940
+msgid "Export"
+msgstr "Dışa Aktar"
+
+#: er-custom-login.php:948
+msgid "Import Settings"
+msgstr "Ayarları İçe Aktarın"
+
+#: er-custom-login.php:950
+msgid ""
+"Import the plugin settings from a .json file. This file can be obtained by "
+"exporting the settings on another site using the form above."
+msgstr ""
+"Eklenti ayarlarını bir .json dosyasından aktarın.Bu dosya başka bir siteden "
+"dışarı aktardığınız ayar olabilir ."
+
+#: er-custom-login.php:958
+msgid "Import"
+msgstr "İçe Aktar"
+
+#: er-custom-login.php:966
+msgid "Quick Links"
+msgstr "Hazır Bağlantılar"
+
+#: er-custom-login.php:968
+msgid "Open Your WP Login Page in a New Tab"
+msgstr "WP giriş ekranınızı yeni bir sekmede açın"
+
+#: er-custom-login.php:969
+msgid "Plugin Documentation"
+msgstr "Eklenti Belgeleri"
+
+#: er-custom-login.php:970
+msgid "Plugin Support Page"
+msgstr "Eklenti Destek Sayfası"
+
+#: er-custom-login.php:971
+msgid "Feature Request/Suggestions?"
+msgstr "Özellik İsteiğiniz/Önerileriniz?"
+
+#: er-custom-login.php:972
+msgid "Got some Love? Give us a 5 star rating!"
+msgstr "Beğendiniz mi? Bize 5 yıldız verin!"
+
+#: er-custom-login.php:982
+msgid "Hire Me"
+msgstr "Beni İşe Alın"
+
+#: er-custom-login.php:983
+msgid ""
+"Hey, I'm Libin, a professional Front End Engineer/WordPress Developer. You "
+"can hire me for freelancing projects.<br/><br/>Email me: <a href=\"mailto:"
+"libin@libin.in\">libin@libin.in</a> <br/>Online Portfolio: <a href=\"http://"
+"www.libin.in\" target=\"_blank\">www.libin.in</a>"
+msgstr ""
+"Merhaba, Benim adım Libin, profesyonel bir Başlangıç aşaması Mühendisi/"
+"Wordpress Geliştiricisiyim. Beni bağımsız projeleriniz için işe "
+"alabilirsiniz .<br/><br/>Bana EMail Atın: <a href=\"mailto:libin@libin.in"
+"\">libin@libin.in</a> <br/>Online Portfolyo: <a href=\"http://www.libin.in\" "
+"target=\"_blank\">www.libin.in</a>"
+
+#: er-custom-login.php:986
+msgid "Translation Credits"
+msgstr "Çeviride Katkısı Bulunanlar"
+
+#: er-custom-login.php:988
+msgid ""
+"Spanish by <a href=\"http://www.linkedin.com/in/adrifolio\" target=\"_blank"
+"\">Adriana De La Cuadra</a>"
+msgstr ""
+"İspanyolcaya çeviren  <a href=\"http://www.linkedin.com/in/adrifolio\" "
+"target=\"_blank\">Adriana De La Cuadra</a>"
+
+#: er-custom-login.php:989
+msgid ""
+"French by <a href=\"https://www.linkedin.com/pub/vaslin-guillaume/38/35a/5aa"
+"\" target=\"_blank\">Guillaume Vaslin</a>"
+msgstr ""
+"Fransızcaya çeviren <a href=\"https://www.linkedin.com/pub/vaslin-"
+"guillaume/38/35a/5aa\" target=\"_blank\">Guillaume Vaslin</a>"
+
+#: er-custom-login.php:990
+msgid ""
+"German by <a href=\"http://www.starsofvietnam.net/\" target=\"_blank\">Peter "
+"Kaulfuss</a>"
+msgstr ""
+"Almancaya çeviren <a href=\"http://www.starsofvietnam.net/\" target=\"_blank"
+"\">Peter Kaulfuss</a>"
+
+#: er-custom-login.php:991
+msgid ""
+"Turkish by <a href=\"https://www.linkedin.com/profile/view?id=335577895\" "
+"target=\"_blank\">Muhammet Küçük</a>"
+msgstr ""
+"Turkish çeviren <a href=\"https://www.linkedin.com/profile/view?"
+"id=335577895\" target=\"_blank\">Muhammet Küçük</a>"
+
+#: er-custom-login.php:992
+msgid ""
+"Persian by <a href=\"https://about.me/reza.heydari\" target=\"_blank\">Reza "
+"Heydari</a>"
+msgstr ""
+"Persian çeviren <a href=\"https://about.me/reza.heydari\" target=\"_blank"
+"\">Reza Heydari</a>"
+
+#: er-custom-login.php:993
+msgid ""
+"Portuguese-Brazil by <a href=\"https://www.facebook.com/samuel.desconsi\" "
+"target=\"_blank\">Samuel Desconsi </a>"
+msgstr ""
+"Portuguese-Brazil çeviren <a href=\"https://www.facebook.com/samuel.desconsi"
+"\" target=\"_blank\">Samuel Desconsi </a>"
+
+#: er-custom-login.php:995
+msgid "Do you wants to translate this plugin to your language? Email me!"
+msgstr "Bu eklentiyi kendi dilinize mi çevirmek istiyorsunuz? Bana mail atın!"
+
+#~ msgid ""
+#~ "Portuguese-Brazil by <a href=\"https://www.facebook.com/home.php?"
+#~ "m2w&refid=8\" target=\"_blank\">Reza Heydari</a>"
+#~ msgstr ""
+#~ "Portuguese-Brazil çeviren <a href=\"https://www.facebook.com/home.php?"
+#~ "m2w&refid=8\" target=\"_blank\">Reza Heydari</a>"
+
+#~ msgid "Dutch by <a href=\"#\" target=\"_blank\">John Blom</a>"
+#~ msgstr "Dutch çeviren <a href=\"#\" target=\"_blank\">John Blom</a>"
+
+#~ msgid "Default Logo Size 274px × 63px"
+#~ msgstr "Varsayılan Logo Genişlliği 274x63 pikseldir"

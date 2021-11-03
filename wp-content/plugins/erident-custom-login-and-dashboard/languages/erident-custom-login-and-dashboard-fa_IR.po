@@ -1,0 +1,1369 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: erident-custom-login-and-dashboard\n"
+"POT-Creation-Date: 2017-11-29 13:34+0530\n"
+"PO-Revision-Date: 2017-11-29 13:35+0530\n"
+"Last-Translator: Reza Heydari <webdev.irh@gmail.com>\n"
+"Language-Team: webdev.irh@gmail.com <webdev.irh@gmail.com>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../tags/1.0/er-custom-login.php:46 ../tags/1.1/er-custom-login.php:46
+#: ../tags/1.2/er-custom-login.php:44 ../tags/1.3/er-custom-login.php:44
+#: ../tags/1.5.1/er-custom-login.php:44 ../tags/1.5/er-custom-login.php:44
+#: ../tags/2.0.0/er-custom-login.php:44 ../tags/2.0.1/er-custom-login.php:44
+#: ../tags/2.1.0/er-custom-login.php:44 ../tags/2.1.1/er-custom-login.php:44
+#: ../tags/2.2.0/er-custom-login.php:40 ../tags/2.2.1/er-custom-login.php:40
+#: ../tags/2.3.0/er-custom-login.php:44 ../tags/2.3.1/er-custom-login.php:44
+#: ../tags/3.0/er-custom-login.php:44 ../tags/3.1/er-custom-login.php:44
+#: ../tags/3.2/er-custom-login.php:44 ../tags/3.3.1/er-custom-login.php:44
+#: ../tags/3.3/er-custom-login.php:44 ../tags/3.4.1/er-custom-login.php:44
+#: ../tags/3.4/er-custom-login.php:44 ../tags/3.5.1/er-custom-login.php:44
+#: ../tags/3.5.2/er-custom-login.php:44 ../tags/3.5.3/er-custom-login.php:44
+#: ../tags/3.5.4/er-custom-login.php:44 ../tags/3.5/er-custom-login.php:44
+#: ../trunk/er-custom-login.php:44
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: ../tags/1.0/er-custom-login.php:548 ../tags/1.1/er-custom-login.php:612
+#: ../tags/1.2/er-custom-login.php:630 ../tags/1.3/er-custom-login.php:678
+#: ../tags/1.5.1/er-custom-login.php:715 ../tags/1.5/er-custom-login.php:715
+#: ../tags/2.0.0/er-custom-login.php:747 ../tags/2.0.1/er-custom-login.php:747
+#: ../tags/2.1.0/er-custom-login.php:760 ../tags/2.1.1/er-custom-login.php:760
+#: ../tags/2.2.0/er-custom-login.php:751 ../tags/2.2.1/er-custom-login.php:755
+#: ../tags/2.3.0/er-custom-login.php:800 ../tags/2.3.1/er-custom-login.php:800
+#: ../tags/3.0/er-custom-login.php:815 ../tags/3.1/er-custom-login.php:819
+#: ../tags/3.2/er-custom-login.php:819 ../tags/3.3.1/er-custom-login.php:830
+#: ../tags/3.3/er-custom-login.php:829 ../tags/3.4.1/er-custom-login.php:837
+#: ../tags/3.4/er-custom-login.php:836 ../tags/3.5.1/er-custom-login.php:844
+#: ../tags/3.5.2/er-custom-login.php:930 ../tags/3.5.3/er-custom-login.php:899
+#: ../tags/3.5.4/er-custom-login.php:899 ../tags/3.5/er-custom-login.php:843
+#: ../trunk/er-custom-login.php:926
+msgid "Save Changes"
+msgstr "ذخیره تغییرات"
+
+#: ../tags/2.3.0/er-custom-login.php:298 ../tags/2.3.1/er-custom-login.php:298
+#: ../tags/3.0/er-custom-login.php:312 ../tags/3.1/er-custom-login.php:316
+#: ../tags/3.2/er-custom-login.php:316 ../tags/3.3.1/er-custom-login.php:326
+#: ../tags/3.3/er-custom-login.php:325 ../tags/3.4.1/er-custom-login.php:333
+#: ../tags/3.4/er-custom-login.php:332 ../tags/3.5.1/er-custom-login.php:338
+#: ../tags/3.5.2/er-custom-login.php:381 ../tags/3.5.3/er-custom-login.php:350
+#: ../tags/3.5.4/er-custom-login.php:350 ../tags/3.5/er-custom-login.php:337
+#: ../trunk/er-custom-login.php:365
+msgid "Custom Login and Dashboard"
+msgstr "پیشخوان و صفحه ورود سفارشی"
+
+#: ../tags/2.3.0/er-custom-login.php:319 ../tags/2.3.1/er-custom-login.php:319
+#: ../tags/3.0/er-custom-login.php:333 ../tags/3.1/er-custom-login.php:337
+#: ../tags/3.2/er-custom-login.php:337 ../tags/3.3.1/er-custom-login.php:347
+#: ../tags/3.3/er-custom-login.php:346 ../tags/3.4.1/er-custom-login.php:354
+#: ../tags/3.4/er-custom-login.php:353 ../tags/3.5.1/er-custom-login.php:359
+#: ../tags/3.5.2/er-custom-login.php:402 ../tags/3.5.3/er-custom-login.php:371
+#: ../tags/3.5.4/er-custom-login.php:371 ../tags/3.5/er-custom-login.php:358
+#: ../trunk/er-custom-login.php:386
+msgid "Erident Custom Login and Dashboard Settings"
+msgstr "تنظیمات صفحه ورود و پیشخوان سفارشی اریدنت"
+
+#: ../tags/2.3.0/er-custom-login.php:320 ../tags/2.3.1/er-custom-login.php:320
+#: ../tags/3.0/er-custom-login.php:334 ../tags/3.1/er-custom-login.php:338
+#: ../tags/3.2/er-custom-login.php:338 ../tags/3.3.1/er-custom-login.php:348
+#: ../tags/3.3/er-custom-login.php:347 ../tags/3.4.1/er-custom-login.php:355
+#: ../tags/3.4/er-custom-login.php:354 ../tags/3.5.1/er-custom-login.php:360
+#: ../tags/3.5.2/er-custom-login.php:403 ../tags/3.5.3/er-custom-login.php:372
+#: ../tags/3.5.4/er-custom-login.php:372 ../tags/3.5/er-custom-login.php:359
+#: ../trunk/er-custom-login.php:387
+msgid ""
+"Plugin Loads default values for all below entries. Please change the values "
+"to yours."
+msgstr ""
+"افزونه مقادیر پیش فرض را برای همه ورودی های زیر بارگزاری کرده است. لطفاً "
+"مقادیر را مطابق میلتان سفارشی کرده و تغییر دهید."
+
+#: ../tags/2.3.0/er-custom-login.php:320 ../tags/2.3.1/er-custom-login.php:320
+#: ../tags/3.0/er-custom-login.php:334 ../tags/3.1/er-custom-login.php:338
+#: ../tags/3.2/er-custom-login.php:338 ../tags/3.3.1/er-custom-login.php:348
+#: ../tags/3.3/er-custom-login.php:347 ../tags/3.4.1/er-custom-login.php:355
+#: ../tags/3.4/er-custom-login.php:354 ../tags/3.5.1/er-custom-login.php:360
+#: ../tags/3.5.2/er-custom-login.php:403 ../tags/3.5.3/er-custom-login.php:372
+#: ../tags/3.5.4/er-custom-login.php:372 ../tags/3.5/er-custom-login.php:359
+#: ../trunk/er-custom-login.php:387
+msgid "Click on the header of each block to open it."
+msgstr "برای بازشدن هر بخش بر روی نوار عنوان آن کلیک کنید."
+
+#: ../tags/2.3.0/er-custom-login.php:326 ../tags/2.3.1/er-custom-login.php:326
+#: ../tags/3.0/er-custom-login.php:348 ../tags/3.1/er-custom-login.php:352
+#: ../tags/3.2/er-custom-login.php:352 ../tags/3.3.1/er-custom-login.php:362
+#: ../tags/3.3/er-custom-login.php:361 ../tags/3.4.1/er-custom-login.php:369
+#: ../tags/3.4/er-custom-login.php:368 ../tags/3.5.1/er-custom-login.php:376
+#: ../tags/3.5.2/er-custom-login.php:420 ../tags/3.5.3/er-custom-login.php:389
+#: ../tags/3.5.4/er-custom-login.php:389 ../tags/3.5/er-custom-login.php:375
+#: ../trunk/er-custom-login.php:405
+msgid "Dashboard Settings"
+msgstr "تنظیمات پیشخوان"
+
+#: ../tags/2.3.0/er-custom-login.php:327 ../tags/2.3.1/er-custom-login.php:327
+#: ../tags/3.0/er-custom-login.php:349 ../tags/3.1/er-custom-login.php:353
+#: ../tags/3.2/er-custom-login.php:353 ../tags/3.3.1/er-custom-login.php:363
+#: ../tags/3.3/er-custom-login.php:362 ../tags/3.4.1/er-custom-login.php:370
+#: ../tags/3.4/er-custom-login.php:369 ../tags/3.5.1/er-custom-login.php:377
+#: ../tags/3.5.2/er-custom-login.php:421 ../tags/3.5.3/er-custom-login.php:390
+#: ../tags/3.5.4/er-custom-login.php:390 ../tags/3.5/er-custom-login.php:376
+#: ../trunk/er-custom-login.php:406
+msgid ""
+"(These settings will be reflected when a user/admin logins to the WordPress "
+"Dashboard)"
+msgstr "(این تنظیمات بر روی پیشخوان وردپرس اعمال می شود)"
+
+#: ../tags/2.3.0/er-custom-login.php:332 ../tags/2.3.1/er-custom-login.php:332
+#: ../tags/3.0/er-custom-login.php:354 ../tags/3.1/er-custom-login.php:358
+#: ../tags/3.2/er-custom-login.php:358 ../tags/3.3.1/er-custom-login.php:368
+#: ../tags/3.3/er-custom-login.php:367 ../tags/3.4.1/er-custom-login.php:375
+#: ../tags/3.4/er-custom-login.php:374 ../tags/3.5.1/er-custom-login.php:382
+#: ../tags/3.5.2/er-custom-login.php:426 ../tags/3.5.3/er-custom-login.php:395
+#: ../tags/3.5.4/er-custom-login.php:395 ../tags/3.5/er-custom-login.php:381
+#: ../trunk/er-custom-login.php:411
+msgid "Enter the text for dashboard left side footer:"
+msgstr "متن مربوط به پانوشت سمت راست پیشخوان را وارد کنید."
+
+#: ../tags/2.3.0/er-custom-login.php:337 ../tags/2.3.1/er-custom-login.php:337
+#: ../tags/3.0/er-custom-login.php:359 ../tags/3.1/er-custom-login.php:363
+#: ../tags/3.2/er-custom-login.php:363 ../tags/3.3.1/er-custom-login.php:373
+#: ../tags/3.3/er-custom-login.php:372 ../tags/3.4.1/er-custom-login.php:380
+#: ../tags/3.4/er-custom-login.php:379 ../tags/3.5.1/er-custom-login.php:387
+#: ../tags/3.5.2/er-custom-login.php:431 ../tags/3.5.3/er-custom-login.php:400
+#: ../tags/3.5.4/er-custom-login.php:400 ../tags/3.5/er-custom-login.php:386
+#: ../trunk/er-custom-login.php:416
+msgid ""
+"This will replace the default \"Thank you for creating with WordPress\" on "
+"the bottom left side of dashboard"
+msgstr ""
+"این متن جایگزین متن تشکر  پیش فرض وردپرس در سمت راست پانوشت پیشخوان خواهد شد."
+
+#: ../tags/2.3.0/er-custom-login.php:341 ../tags/2.3.1/er-custom-login.php:341
+#: ../tags/3.0/er-custom-login.php:363 ../tags/3.1/er-custom-login.php:367
+#: ../tags/3.2/er-custom-login.php:367 ../tags/3.3.1/er-custom-login.php:377
+#: ../tags/3.3/er-custom-login.php:376 ../tags/3.4.1/er-custom-login.php:384
+#: ../tags/3.4/er-custom-login.php:383 ../tags/3.5.1/er-custom-login.php:391
+#: ../tags/3.5.2/er-custom-login.php:435 ../tags/3.5.3/er-custom-login.php:404
+#: ../tags/3.5.4/er-custom-login.php:404 ../tags/3.5/er-custom-login.php:390
+#: ../trunk/er-custom-login.php:420
+msgid "Enter the text for dashboard right side footer:"
+msgstr "متن مربوط به پانوشت سمت چپ پیشخوان را وارد کنید."
+
+#: ../tags/2.3.0/er-custom-login.php:345 ../tags/2.3.1/er-custom-login.php:345
+#: ../tags/3.0/er-custom-login.php:367 ../tags/3.1/er-custom-login.php:371
+#: ../tags/3.2/er-custom-login.php:371 ../tags/3.3.1/er-custom-login.php:381
+#: ../tags/3.3/er-custom-login.php:380 ../tags/3.4.1/er-custom-login.php:388
+#: ../tags/3.4/er-custom-login.php:387
+msgid ""
+"This will replace the default \"WordPress Version\" on the bottom right side "
+"of dashboard"
+msgstr "این متن جایگزین متن نسخه وردپرس در سمت چپ پانوشت پیشخوان خواهد شد."
+
+#: ../tags/2.3.0/er-custom-login.php:354 ../tags/2.3.1/er-custom-login.php:354
+#: ../tags/3.0/er-custom-login.php:376 ../tags/3.1/er-custom-login.php:380
+#: ../tags/3.2/er-custom-login.php:380 ../tags/3.3.1/er-custom-login.php:390
+#: ../tags/3.3/er-custom-login.php:389 ../tags/3.4.1/er-custom-login.php:397
+#: ../tags/3.4/er-custom-login.php:396 ../tags/3.5.1/er-custom-login.php:404
+#: ../tags/3.5.2/er-custom-login.php:448 ../tags/3.5.3/er-custom-login.php:417
+#: ../tags/3.5.4/er-custom-login.php:417 ../tags/3.5/er-custom-login.php:403
+#: ../trunk/er-custom-login.php:433
+msgid "Login Screen Background"
+msgstr "پس زمینه صفحه ورود"
+
+#: ../tags/2.3.0/er-custom-login.php:355 ../tags/2.3.1/er-custom-login.php:355
+#: ../tags/3.0/er-custom-login.php:377 ../tags/3.1/er-custom-login.php:381
+#: ../tags/3.2/er-custom-login.php:381 ../tags/3.3.1/er-custom-login.php:391
+#: ../tags/3.3/er-custom-login.php:390 ../tags/3.4.1/er-custom-login.php:398
+#: ../tags/3.4/er-custom-login.php:397 ../tags/3.5.1/er-custom-login.php:405
+#: ../tags/3.5.2/er-custom-login.php:449 ../tags/3.5.3/er-custom-login.php:418
+#: ../tags/3.5.4/er-custom-login.php:418 ../tags/3.5/er-custom-login.php:404
+#: ../trunk/er-custom-login.php:434
+msgid "(The following settings will be reflected on the \"wp-login.php\" page)"
+msgstr "(تنظیمات زیر بر روی فایل \"wp-login.php\" تاثیر می گذارند.)"
+
+#: ../tags/2.3.0/er-custom-login.php:360 ../tags/2.3.1/er-custom-login.php:360
+#: ../tags/3.0/er-custom-login.php:382 ../tags/3.1/er-custom-login.php:386
+#: ../tags/3.2/er-custom-login.php:386 ../tags/3.3.1/er-custom-login.php:396
+#: ../tags/3.3/er-custom-login.php:395 ../tags/3.4.1/er-custom-login.php:403
+#: ../tags/3.4/er-custom-login.php:402 ../tags/3.5.1/er-custom-login.php:410
+#: ../tags/3.5.2/er-custom-login.php:454 ../tags/3.5.3/er-custom-login.php:423
+#: ../tags/3.5.4/er-custom-login.php:423 ../tags/3.5/er-custom-login.php:409
+#: ../trunk/er-custom-login.php:439
+msgid "Login Screen Background Color:"
+msgstr "رنگ پس زمینه صفحه ورود:"
+
+#: ../tags/2.3.0/er-custom-login.php:365 ../tags/2.3.0/er-custom-login.php:577
+#: ../tags/2.3.0/er-custom-login.php:586 ../tags/2.3.0/er-custom-login.php:689
+#: ../tags/2.3.0/er-custom-login.php:717 ../tags/2.3.0/er-custom-login.php:746
+#: ../tags/2.3.0/er-custom-login.php:758 ../tags/2.3.1/er-custom-login.php:365
+#: ../tags/2.3.1/er-custom-login.php:577 ../tags/2.3.1/er-custom-login.php:586
+#: ../tags/2.3.1/er-custom-login.php:689 ../tags/2.3.1/er-custom-login.php:717
+#: ../tags/2.3.1/er-custom-login.php:746 ../tags/2.3.1/er-custom-login.php:758
+#: ../tags/3.0/er-custom-login.php:387 ../tags/3.0/er-custom-login.php:597
+#: ../tags/3.0/er-custom-login.php:606 ../tags/3.0/er-custom-login.php:708
+#: ../tags/3.0/er-custom-login.php:736 ../tags/3.0/er-custom-login.php:765
+#: ../tags/3.0/er-custom-login.php:777 ../tags/3.1/er-custom-login.php:391
+#: ../tags/3.1/er-custom-login.php:601 ../tags/3.1/er-custom-login.php:610
+#: ../tags/3.1/er-custom-login.php:712 ../tags/3.1/er-custom-login.php:740
+#: ../tags/3.1/er-custom-login.php:769 ../tags/3.1/er-custom-login.php:781
+#: ../tags/3.2/er-custom-login.php:391 ../tags/3.2/er-custom-login.php:601
+#: ../tags/3.2/er-custom-login.php:610 ../tags/3.2/er-custom-login.php:712
+#: ../tags/3.2/er-custom-login.php:740 ../tags/3.2/er-custom-login.php:769
+#: ../tags/3.2/er-custom-login.php:781 ../tags/3.3.1/er-custom-login.php:401
+#: ../tags/3.3.1/er-custom-login.php:611 ../tags/3.3.1/er-custom-login.php:723
+#: ../tags/3.3.1/er-custom-login.php:751 ../tags/3.3.1/er-custom-login.php:780
+#: ../tags/3.3.1/er-custom-login.php:792 ../tags/3.3/er-custom-login.php:400
+#: ../tags/3.3/er-custom-login.php:610 ../tags/3.3/er-custom-login.php:722
+#: ../tags/3.3/er-custom-login.php:750 ../tags/3.3/er-custom-login.php:779
+#: ../tags/3.3/er-custom-login.php:791 ../tags/3.4.1/er-custom-login.php:408
+#: ../tags/3.4.1/er-custom-login.php:618 ../tags/3.4.1/er-custom-login.php:730
+#: ../tags/3.4.1/er-custom-login.php:758 ../tags/3.4.1/er-custom-login.php:787
+#: ../tags/3.4.1/er-custom-login.php:799 ../tags/3.4/er-custom-login.php:407
+#: ../tags/3.4/er-custom-login.php:617 ../tags/3.4/er-custom-login.php:729
+#: ../tags/3.4/er-custom-login.php:757 ../tags/3.4/er-custom-login.php:786
+#: ../tags/3.4/er-custom-login.php:798 ../tags/3.5.1/er-custom-login.php:415
+#: ../tags/3.5.1/er-custom-login.php:625 ../tags/3.5.1/er-custom-login.php:737
+#: ../tags/3.5.1/er-custom-login.php:765 ../tags/3.5.1/er-custom-login.php:794
+#: ../tags/3.5.1/er-custom-login.php:806 ../tags/3.5.2/er-custom-login.php:459
+#: ../tags/3.5.2/er-custom-login.php:669 ../tags/3.5.2/er-custom-login.php:781
+#: ../tags/3.5.2/er-custom-login.php:809 ../tags/3.5.2/er-custom-login.php:838
+#: ../tags/3.5.2/er-custom-login.php:850 ../tags/3.5.3/er-custom-login.php:428
+#: ../tags/3.5.3/er-custom-login.php:638 ../tags/3.5.3/er-custom-login.php:750
+#: ../tags/3.5.3/er-custom-login.php:778 ../tags/3.5.3/er-custom-login.php:807
+#: ../tags/3.5.3/er-custom-login.php:819 ../tags/3.5.4/er-custom-login.php:428
+#: ../tags/3.5.4/er-custom-login.php:638 ../tags/3.5.4/er-custom-login.php:750
+#: ../tags/3.5.4/er-custom-login.php:778 ../tags/3.5.4/er-custom-login.php:807
+#: ../tags/3.5.4/er-custom-login.php:819 ../tags/3.5/er-custom-login.php:414
+#: ../tags/3.5/er-custom-login.php:624 ../tags/3.5/er-custom-login.php:736
+#: ../tags/3.5/er-custom-login.php:764 ../tags/3.5/er-custom-login.php:793
+#: ../tags/3.5/er-custom-login.php:805 ../trunk/er-custom-login.php:444
+#: ../trunk/er-custom-login.php:654 ../trunk/er-custom-login.php:766
+#: ../trunk/er-custom-login.php:794 ../trunk/er-custom-login.php:823
+#: ../trunk/er-custom-login.php:835 ../trunk/er-custom-login.php:846
+msgid "Click the box to select a color."
+msgstr "برای انتخاب زنگ درون کادر کلیک کنید."
+
+#: ../tags/2.3.0/er-custom-login.php:370 ../tags/2.3.1/er-custom-login.php:370
+#: ../tags/3.0/er-custom-login.php:392 ../tags/3.1/er-custom-login.php:396
+#: ../tags/3.2/er-custom-login.php:396 ../tags/3.3.1/er-custom-login.php:406
+#: ../tags/3.3/er-custom-login.php:405 ../tags/3.4.1/er-custom-login.php:413
+#: ../tags/3.4/er-custom-login.php:412 ../tags/3.5.1/er-custom-login.php:420
+#: ../tags/3.5.2/er-custom-login.php:464 ../tags/3.5.3/er-custom-login.php:433
+#: ../tags/3.5.4/er-custom-login.php:433 ../tags/3.5/er-custom-login.php:419
+#: ../trunk/er-custom-login.php:449
+msgid "Login Screen Background Image:"
+msgstr "تصویر پس زمینه صفحه ورود"
+
+#: ../tags/2.3.0/er-custom-login.php:374 ../tags/2.3.1/er-custom-login.php:374
+#: ../tags/3.0/er-custom-login.php:396 ../tags/3.1/er-custom-login.php:400
+#: ../tags/3.2/er-custom-login.php:400 ../tags/3.3.1/er-custom-login.php:410
+#: ../tags/3.3/er-custom-login.php:409 ../tags/3.4.1/er-custom-login.php:417
+#: ../tags/3.4/er-custom-login.php:416 ../tags/3.5.1/er-custom-login.php:424
+#: ../tags/3.5.2/er-custom-login.php:468 ../tags/3.5.3/er-custom-login.php:437
+#: ../tags/3.5.4/er-custom-login.php:437 ../tags/3.5/er-custom-login.php:423
+#: ../trunk/er-custom-login.php:453
+msgid ""
+"Add your own pattern/image url for the screen background. Leave blank if you "
+"don't need any images."
+msgstr ""
+"مسیر تصویر الگوی خود را برای تصویر پس زمبنه وارد کنید. اگر به این کار تمایلی "
+"ندارید این گزینه را خالی رها کنید."
+
+#: ../tags/2.3.0/er-custom-login.php:378 ../tags/2.3.1/er-custom-login.php:378
+#: ../tags/3.0/er-custom-login.php:400 ../tags/3.1/er-custom-login.php:404
+#: ../tags/3.2/er-custom-login.php:404 ../tags/3.3.1/er-custom-login.php:414
+#: ../tags/3.3/er-custom-login.php:413 ../tags/3.4.1/er-custom-login.php:421
+#: ../tags/3.4/er-custom-login.php:420 ../tags/3.5.1/er-custom-login.php:428
+#: ../tags/3.5.2/er-custom-login.php:472 ../tags/3.5.3/er-custom-login.php:441
+#: ../tags/3.5.4/er-custom-login.php:441 ../tags/3.5/er-custom-login.php:427
+#: ../trunk/er-custom-login.php:457
+msgid "Login Screen Background Repeat"
+msgstr "تکرار پس زمبنه صفحه ورود"
+
+#: ../tags/2.3.0/er-custom-login.php:417 ../tags/2.3.0/er-custom-login.php:636
+#: ../tags/2.3.1/er-custom-login.php:417 ../tags/2.3.1/er-custom-login.php:636
+#: ../tags/3.0/er-custom-login.php:438 ../tags/3.0/er-custom-login.php:655
+#: ../tags/3.1/er-custom-login.php:442 ../tags/3.1/er-custom-login.php:659
+#: ../tags/3.2/er-custom-login.php:442 ../tags/3.2/er-custom-login.php:659
+#: ../tags/3.3.1/er-custom-login.php:452 ../tags/3.3.1/er-custom-login.php:670
+#: ../tags/3.3/er-custom-login.php:451 ../tags/3.3/er-custom-login.php:669
+#: ../tags/3.4.1/er-custom-login.php:459 ../tags/3.4.1/er-custom-login.php:677
+#: ../tags/3.4/er-custom-login.php:458 ../tags/3.4/er-custom-login.php:676
+#: ../tags/3.5.1/er-custom-login.php:466 ../tags/3.5.1/er-custom-login.php:684
+#: ../tags/3.5.2/er-custom-login.php:510 ../tags/3.5.2/er-custom-login.php:728
+#: ../tags/3.5.3/er-custom-login.php:479 ../tags/3.5.3/er-custom-login.php:697
+#: ../tags/3.5.4/er-custom-login.php:479 ../tags/3.5.4/er-custom-login.php:697
+#: ../tags/3.5/er-custom-login.php:465 ../tags/3.5/er-custom-login.php:683
+#: ../trunk/er-custom-login.php:495 ../trunk/er-custom-login.php:713
+msgid "Select an image repeat option from dropdown."
+msgstr "یکی از گزینه های تکرار را از لیست انتخاب کنید."
+
+#: ../tags/2.3.0/er-custom-login.php:421 ../tags/2.3.0/er-custom-login.php:641
+#: ../tags/2.3.1/er-custom-login.php:421 ../tags/2.3.1/er-custom-login.php:641
+#: ../tags/3.0/er-custom-login.php:442 ../tags/3.0/er-custom-login.php:660
+#: ../tags/3.1/er-custom-login.php:446 ../tags/3.1/er-custom-login.php:664
+#: ../tags/3.2/er-custom-login.php:446 ../tags/3.2/er-custom-login.php:664
+#: ../tags/3.3.1/er-custom-login.php:456 ../tags/3.3.1/er-custom-login.php:675
+#: ../tags/3.3/er-custom-login.php:455 ../tags/3.3/er-custom-login.php:674
+#: ../tags/3.4.1/er-custom-login.php:463 ../tags/3.4.1/er-custom-login.php:682
+#: ../tags/3.4/er-custom-login.php:462 ../tags/3.4/er-custom-login.php:681
+#: ../tags/3.5.1/er-custom-login.php:470 ../tags/3.5.1/er-custom-login.php:689
+#: ../tags/3.5.2/er-custom-login.php:514 ../tags/3.5.2/er-custom-login.php:733
+#: ../tags/3.5.3/er-custom-login.php:483 ../tags/3.5.3/er-custom-login.php:702
+#: ../tags/3.5.4/er-custom-login.php:483 ../tags/3.5.4/er-custom-login.php:702
+#: ../tags/3.5/er-custom-login.php:469 ../tags/3.5/er-custom-login.php:688
+#: ../trunk/er-custom-login.php:499 ../trunk/er-custom-login.php:718
+msgid "Background Position:"
+msgstr "موقعیت پس زمینه:"
+
+#: ../tags/2.3.0/er-custom-login.php:422 ../tags/2.3.0/er-custom-login.php:642
+#: ../tags/2.3.1/er-custom-login.php:422 ../tags/2.3.1/er-custom-login.php:642
+#: ../tags/3.0/er-custom-login.php:443 ../tags/3.0/er-custom-login.php:661
+#: ../tags/3.1/er-custom-login.php:447 ../tags/3.1/er-custom-login.php:665
+#: ../tags/3.2/er-custom-login.php:447 ../tags/3.2/er-custom-login.php:665
+#: ../tags/3.3.1/er-custom-login.php:457 ../tags/3.3.1/er-custom-login.php:676
+#: ../tags/3.3/er-custom-login.php:456 ../tags/3.3/er-custom-login.php:675
+#: ../tags/3.4.1/er-custom-login.php:464 ../tags/3.4.1/er-custom-login.php:683
+#: ../tags/3.4/er-custom-login.php:463 ../tags/3.4/er-custom-login.php:682
+#: ../tags/3.5.1/er-custom-login.php:471 ../tags/3.5.1/er-custom-login.php:690
+#: ../tags/3.5.2/er-custom-login.php:515 ../tags/3.5.2/er-custom-login.php:734
+#: ../tags/3.5.3/er-custom-login.php:484 ../tags/3.5.3/er-custom-login.php:703
+#: ../tags/3.5.4/er-custom-login.php:484 ../tags/3.5.4/er-custom-login.php:703
+#: ../tags/3.5/er-custom-login.php:470 ../tags/3.5/er-custom-login.php:689
+#: ../trunk/er-custom-login.php:500 ../trunk/er-custom-login.php:719
+msgid "Horizontal Position: "
+msgstr "موقعیت افقی:"
+
+#: ../tags/2.3.0/er-custom-login.php:427 ../tags/2.3.0/er-custom-login.php:647
+#: ../tags/2.3.1/er-custom-login.php:427 ../tags/2.3.1/er-custom-login.php:647
+#: ../tags/3.0/er-custom-login.php:448 ../tags/3.0/er-custom-login.php:666
+#: ../tags/3.1/er-custom-login.php:452 ../tags/3.1/er-custom-login.php:670
+#: ../tags/3.2/er-custom-login.php:452 ../tags/3.2/er-custom-login.php:670
+#: ../tags/3.3.1/er-custom-login.php:462 ../tags/3.3.1/er-custom-login.php:681
+#: ../tags/3.3/er-custom-login.php:461 ../tags/3.3/er-custom-login.php:680
+#: ../tags/3.4.1/er-custom-login.php:469 ../tags/3.4.1/er-custom-login.php:688
+#: ../tags/3.4/er-custom-login.php:468 ../tags/3.4/er-custom-login.php:687
+#: ../tags/3.5.1/er-custom-login.php:476 ../tags/3.5.1/er-custom-login.php:695
+#: ../tags/3.5.2/er-custom-login.php:520 ../tags/3.5.2/er-custom-login.php:739
+#: ../tags/3.5.3/er-custom-login.php:489 ../tags/3.5.3/er-custom-login.php:708
+#: ../tags/3.5.4/er-custom-login.php:489 ../tags/3.5.4/er-custom-login.php:708
+#: ../tags/3.5/er-custom-login.php:475 ../tags/3.5/er-custom-login.php:694
+#: ../trunk/er-custom-login.php:505 ../trunk/er-custom-login.php:724
+msgid ""
+"The background-position property sets the starting position of a background "
+"image. If you entering the value in \"pixels\" or \"percentage\", add \"px\" "
+"or \"%\" at the end of value. This will not show any changes if you set the "
+"Background Repeat option as \"Repeat\". <a href=\"http://www.w3schools.com/"
+"cssref/pr_background-position.asp\" target=\"_blank\">More Info</a>"
+msgstr ""
+"گزینه «موقعیت پس زمینه» برای تعیین موقعیت شروع پس زمینه استفاده می شود. اگر "
+"مقدار را به \"پیکسل\" یا \"درصد\", وارد می کنید  \"px\" یا \"%\" را در انتهای "
+"مقدار وارد کنید،. اگر مقدار گزینه «تکرار پس زمینه» را \"Repeat\" بگزارید هیچ "
+"تغییری اتفاق نمی افتد.. <a href=\"http://www.w3schools.com/cssref/"
+"pr_background-position.asp\" target=\"_blank\">اطلاعات بیشتر در زمینه تکرار "
+"پس زمینه</a>"
+
+#: ../tags/2.3.0/er-custom-login.php:432 ../tags/2.3.1/er-custom-login.php:432
+#: ../tags/3.0/er-custom-login.php:453 ../tags/3.1/er-custom-login.php:457
+#: ../tags/3.2/er-custom-login.php:457 ../tags/3.3.1/er-custom-login.php:467
+#: ../tags/3.3/er-custom-login.php:466 ../tags/3.4.1/er-custom-login.php:474
+#: ../tags/3.4/er-custom-login.php:473 ../tags/3.5.1/er-custom-login.php:481
+#: ../tags/3.5.2/er-custom-login.php:525 ../tags/3.5.3/er-custom-login.php:494
+#: ../tags/3.5.4/er-custom-login.php:494 ../tags/3.5/er-custom-login.php:480
+#: ../trunk/er-custom-login.php:510
+msgid "Background Size:"
+msgstr "اندازه پس زمینه:"
+
+#: ../tags/2.3.0/er-custom-login.php:436 ../tags/2.3.1/er-custom-login.php:436
+#: ../tags/3.0/er-custom-login.php:457 ../tags/3.1/er-custom-login.php:461
+#: ../tags/3.2/er-custom-login.php:461 ../tags/3.3.1/er-custom-login.php:471
+#: ../tags/3.3/er-custom-login.php:470 ../tags/3.4.1/er-custom-login.php:478
+#: ../tags/3.4/er-custom-login.php:477 ../tags/3.5.1/er-custom-login.php:485
+#: ../tags/3.5.2/er-custom-login.php:529 ../tags/3.5.3/er-custom-login.php:498
+#: ../tags/3.5.4/er-custom-login.php:498 ../tags/3.5/er-custom-login.php:484
+#: ../trunk/er-custom-login.php:514
+msgid ""
+"The background-size property specifies the size of a background image. If you "
+"entering the value in \"pixels\" or \"percentage\", add \"px\" or \"%\" at "
+"the end of value. Possible values: auto, length, percentage, cover, contain. "
+"<a href=\"http://www.w3schools.com/cssref/css3_pr_background-size.asp\" "
+"target=\"_blank\">More Info</a>"
+msgstr ""
+"گزینه «اندازه پس زمینه» برای تعیین اندازه پس زمینه استفاده می شود. اگر مقدار "
+"را به \"پیکسل\" یا \"درصد\", وارد می کنید  \"px\" یا \"%\" را در انتهای مقدار "
+"وارد کنید. مقادیر قابل قبول:  auto, length, percentage, cover, contain. <a "
+"href=\"http://www.w3schools.com/cssref/css3_pr_background-size.asp\" target="
+"\"_blank\">اطلاعات بیشتر</a>"
+
+#: ../tags/2.3.0/er-custom-login.php:447 ../tags/2.3.1/er-custom-login.php:447
+#: ../tags/3.0/er-custom-login.php:468 ../tags/3.1/er-custom-login.php:472
+#: ../tags/3.2/er-custom-login.php:472 ../tags/3.3.1/er-custom-login.php:482
+#: ../tags/3.3/er-custom-login.php:481 ../tags/3.4.1/er-custom-login.php:489
+#: ../tags/3.4/er-custom-login.php:488 ../tags/3.5.1/er-custom-login.php:496
+#: ../tags/3.5.2/er-custom-login.php:540 ../tags/3.5.3/er-custom-login.php:509
+#: ../tags/3.5.4/er-custom-login.php:509 ../tags/3.5/er-custom-login.php:495
+#: ../trunk/er-custom-login.php:525
+msgid "Login Screen Logo"
+msgstr "لوگوی صفحه ورود"
+
+#: ../tags/2.3.0/er-custom-login.php:448 ../tags/2.3.1/er-custom-login.php:448
+#: ../tags/3.0/er-custom-login.php:469 ../tags/3.1/er-custom-login.php:473
+#: ../tags/3.2/er-custom-login.php:473 ../tags/3.3.1/er-custom-login.php:483
+#: ../tags/3.3/er-custom-login.php:482 ../tags/3.4.1/er-custom-login.php:490
+#: ../tags/3.4/er-custom-login.php:489 ../tags/3.5.1/er-custom-login.php:497
+#: ../tags/3.5.2/er-custom-login.php:541 ../tags/3.5.3/er-custom-login.php:510
+#: ../tags/3.5.4/er-custom-login.php:510 ../tags/3.5/er-custom-login.php:496
+#: ../trunk/er-custom-login.php:526
+msgid "(Change the default WordPress logo and powered by text)"
+msgstr "(تغییر لوگو و متن نیروگرفته از وردپرس)"
+
+#: ../tags/2.3.0/er-custom-login.php:453 ../tags/2.3.1/er-custom-login.php:453
+#: ../tags/3.0/er-custom-login.php:474 ../tags/3.1/er-custom-login.php:478
+#: ../tags/3.2/er-custom-login.php:478 ../tags/3.3.1/er-custom-login.php:488
+#: ../tags/3.3/er-custom-login.php:487 ../tags/3.4.1/er-custom-login.php:495
+#: ../tags/3.4/er-custom-login.php:494 ../tags/3.5.1/er-custom-login.php:502
+#: ../tags/3.5.2/er-custom-login.php:546 ../tags/3.5.3/er-custom-login.php:515
+#: ../tags/3.5.4/er-custom-login.php:515 ../tags/3.5/er-custom-login.php:501
+#: ../trunk/er-custom-login.php:531
+msgid "Logo Url:"
+msgstr "مسیر URL لوگو:"
+
+#: ../tags/2.3.0/er-custom-login.php:455 ../tags/2.3.1/er-custom-login.php:455
+#: ../tags/3.0/er-custom-login.php:476 ../tags/3.1/er-custom-login.php:480
+#: ../tags/3.2/er-custom-login.php:480 ../tags/3.3.1/er-custom-login.php:490
+#: ../tags/3.3/er-custom-login.php:489
+msgid "Default Logo Size 274px × 63px"
+msgstr "به طور پیش فرض اندازه 274px × لوگو 63px"
+
+#: ../tags/2.3.0/er-custom-login.php:457 ../tags/2.3.1/er-custom-login.php:457
+#: ../tags/3.0/er-custom-login.php:478 ../tags/3.1/er-custom-login.php:482
+#: ../tags/3.2/er-custom-login.php:482 ../tags/3.3.1/er-custom-login.php:492
+#: ../tags/3.3/er-custom-login.php:491 ../tags/3.4.1/er-custom-login.php:499
+#: ../tags/3.4/er-custom-login.php:498 ../tags/3.5.1/er-custom-login.php:506
+#: ../tags/3.5.2/er-custom-login.php:550 ../tags/3.5.3/er-custom-login.php:519
+#: ../tags/3.5.4/er-custom-login.php:519 ../tags/3.5/er-custom-login.php:505
+#: ../trunk/er-custom-login.php:535
+msgid ""
+"(URL path to image to replace default WordPress Logo. (You can upload your "
+"image with the WordPress media uploader)"
+msgstr ""
+"(مسیر تصویری که مایلید جایگزین لوگوی پیش فرض وردپرس گردد. می توانید از آپلودر "
+"رسانه وردپرس برای بارگزاری تصویر موردنظرتان استفاده کنید)"
+
+#: ../tags/2.3.0/er-custom-login.php:462 ../tags/2.3.1/er-custom-login.php:462
+#: ../tags/3.0/er-custom-login.php:483 ../tags/3.1/er-custom-login.php:487
+#: ../tags/3.2/er-custom-login.php:487 ../tags/3.3.1/er-custom-login.php:497
+#: ../tags/3.3/er-custom-login.php:496 ../tags/3.4.1/er-custom-login.php:504
+#: ../tags/3.4/er-custom-login.php:503 ../tags/3.5.1/er-custom-login.php:511
+#: ../tags/3.5.2/er-custom-login.php:555 ../tags/3.5.3/er-custom-login.php:524
+#: ../tags/3.5.4/er-custom-login.php:524 ../tags/3.5/er-custom-login.php:510
+#: ../trunk/er-custom-login.php:540
+msgid "Logo Width:"
+msgstr "عرض لوگو:"
+
+#: ../tags/2.3.0/er-custom-login.php:466 ../tags/2.3.1/er-custom-login.php:466
+#: ../tags/3.0/er-custom-login.php:487 ../tags/3.1/er-custom-login.php:491
+#: ../tags/3.2/er-custom-login.php:491 ../tags/3.3.1/er-custom-login.php:501
+#: ../tags/3.3/er-custom-login.php:500 ../tags/3.4.1/er-custom-login.php:508
+#: ../tags/3.4/er-custom-login.php:507 ../tags/3.5.1/er-custom-login.php:515
+#: ../tags/3.5.2/er-custom-login.php:559 ../tags/3.5.3/er-custom-login.php:528
+#: ../tags/3.5.4/er-custom-login.php:528 ../tags/3.5/er-custom-login.php:514
+#: ../trunk/er-custom-login.php:544
+msgid "Your Logo width(Enter in pixels). Default: 274px"
+msgstr "عرض لوگو (پیکسل) پیشفرض: 274px"
+
+#: ../tags/2.3.0/er-custom-login.php:470 ../tags/2.3.1/er-custom-login.php:470
+#: ../tags/3.0/er-custom-login.php:491 ../tags/3.1/er-custom-login.php:495
+#: ../tags/3.2/er-custom-login.php:495 ../tags/3.3.1/er-custom-login.php:505
+#: ../tags/3.3/er-custom-login.php:504 ../tags/3.4.1/er-custom-login.php:512
+#: ../tags/3.4/er-custom-login.php:511 ../tags/3.5.1/er-custom-login.php:519
+#: ../tags/3.5.2/er-custom-login.php:563 ../tags/3.5.3/er-custom-login.php:532
+#: ../tags/3.5.4/er-custom-login.php:532 ../tags/3.5/er-custom-login.php:518
+#: ../trunk/er-custom-login.php:548
+msgid "Logo Height:"
+msgstr "طول لوگو:"
+
+#: ../tags/2.3.0/er-custom-login.php:474 ../tags/2.3.1/er-custom-login.php:474
+#: ../tags/3.0/er-custom-login.php:495 ../tags/3.1/er-custom-login.php:499
+#: ../tags/3.2/er-custom-login.php:499 ../tags/3.3.1/er-custom-login.php:509
+#: ../tags/3.3/er-custom-login.php:508 ../tags/3.4.1/er-custom-login.php:516
+#: ../tags/3.4/er-custom-login.php:515 ../tags/3.5.1/er-custom-login.php:523
+#: ../tags/3.5.2/er-custom-login.php:567 ../tags/3.5.3/er-custom-login.php:536
+#: ../tags/3.5.4/er-custom-login.php:536 ../tags/3.5/er-custom-login.php:522
+#: ../trunk/er-custom-login.php:552
+msgid "Your Logo Height(Enter in pixels). Default: 63px"
+msgstr "طول لوگو (پیکسل) پیشفرض: 63px"
+
+#: ../tags/2.3.0/er-custom-login.php:479 ../tags/2.3.1/er-custom-login.php:479
+#: ../tags/3.0/er-custom-login.php:500 ../tags/3.1/er-custom-login.php:504
+#: ../tags/3.2/er-custom-login.php:504 ../tags/3.3.1/er-custom-login.php:514
+#: ../tags/3.3/er-custom-login.php:513 ../tags/3.4.1/er-custom-login.php:521
+#: ../tags/3.4/er-custom-login.php:520 ../tags/3.5.1/er-custom-login.php:528
+#: ../tags/3.5.2/er-custom-login.php:572 ../tags/3.5.3/er-custom-login.php:541
+#: ../tags/3.5.4/er-custom-login.php:541 ../tags/3.5/er-custom-login.php:527
+#: ../trunk/er-custom-login.php:557
+msgid "Powered by Text:"
+msgstr "متن نیرو گرفته از: "
+
+#: ../tags/2.3.0/er-custom-login.php:483 ../tags/2.3.1/er-custom-login.php:483
+#: ../tags/3.0/er-custom-login.php:504 ../tags/3.1/er-custom-login.php:508
+#: ../tags/3.2/er-custom-login.php:508 ../tags/3.3.1/er-custom-login.php:518
+#: ../tags/3.3/er-custom-login.php:517 ../tags/3.4.1/er-custom-login.php:525
+#: ../tags/3.4/er-custom-login.php:524 ../tags/3.5.1/er-custom-login.php:532
+#: ../tags/3.5.2/er-custom-login.php:576 ../tags/3.5.3/er-custom-login.php:545
+#: ../tags/3.5.4/er-custom-login.php:545 ../tags/3.5/er-custom-login.php:531
+#: ../trunk/er-custom-login.php:561
+msgid "Show when mouse hover over custom Login logo"
+msgstr "زمانی که نشانگر ماوس بر روی لوگو قراربگیرد نمایش داده می شود."
+
+#: ../tags/2.3.0/er-custom-login.php:493 ../tags/2.3.1/er-custom-login.php:493
+#: ../tags/3.0/er-custom-login.php:514 ../tags/3.1/er-custom-login.php:518
+#: ../tags/3.2/er-custom-login.php:518 ../tags/3.3.1/er-custom-login.php:528
+#: ../tags/3.3/er-custom-login.php:527 ../tags/3.4.1/er-custom-login.php:535
+#: ../tags/3.4/er-custom-login.php:534 ../tags/3.5.1/er-custom-login.php:542
+#: ../tags/3.5.2/er-custom-login.php:586 ../tags/3.5.3/er-custom-login.php:555
+#: ../tags/3.5.4/er-custom-login.php:555 ../tags/3.5/er-custom-login.php:541
+#: ../trunk/er-custom-login.php:571
+msgid "Login Form Settings"
+msgstr "تنظیمات فرم ورود"
+
+#: ../tags/2.3.0/er-custom-login.php:494 ../tags/2.3.1/er-custom-login.php:494
+#: ../tags/3.0/er-custom-login.php:515 ../tags/3.1/er-custom-login.php:519
+#: ../tags/3.2/er-custom-login.php:519 ../tags/3.3.1/er-custom-login.php:529
+#: ../tags/3.3/er-custom-login.php:528 ../tags/3.4.1/er-custom-login.php:536
+#: ../tags/3.4/er-custom-login.php:535 ../tags/3.5.1/er-custom-login.php:543
+#: ../tags/3.5.2/er-custom-login.php:587 ../tags/3.5.3/er-custom-login.php:556
+#: ../tags/3.5.4/er-custom-login.php:556 ../tags/3.5/er-custom-login.php:542
+#: ../trunk/er-custom-login.php:572
+msgid "(The following settings will change the Login Form style)"
+msgstr "(تنظیمات زیر سبک فرم ورود را تغییر می دهد)"
+
+#: ../tags/2.3.0/er-custom-login.php:499 ../tags/2.3.1/er-custom-login.php:499
+#: ../tags/3.0/er-custom-login.php:520 ../tags/3.1/er-custom-login.php:524
+#: ../tags/3.2/er-custom-login.php:524 ../tags/3.3.1/er-custom-login.php:534
+#: ../tags/3.3/er-custom-login.php:533 ../tags/3.4.1/er-custom-login.php:541
+#: ../tags/3.4/er-custom-login.php:540 ../tags/3.5.1/er-custom-login.php:548
+#: ../tags/3.5.2/er-custom-login.php:592 ../tags/3.5.3/er-custom-login.php:561
+#: ../tags/3.5.4/er-custom-login.php:561 ../tags/3.5/er-custom-login.php:547
+#: ../trunk/er-custom-login.php:577
+msgid "Login form width:"
+msgstr "عرض فرم ورود: "
+
+#: ../tags/2.3.0/er-custom-login.php:503 ../tags/2.3.1/er-custom-login.php:503
+#: ../tags/3.0/er-custom-login.php:524 ../tags/3.1/er-custom-login.php:528
+#: ../tags/3.2/er-custom-login.php:528 ../tags/3.3.1/er-custom-login.php:538
+#: ../tags/3.3/er-custom-login.php:537 ../tags/3.4.1/er-custom-login.php:545
+#: ../tags/3.4/er-custom-login.php:544 ../tags/3.5.1/er-custom-login.php:552
+#: ../tags/3.5.2/er-custom-login.php:596 ../tags/3.5.3/er-custom-login.php:565
+#: ../tags/3.5.4/er-custom-login.php:565 ../tags/3.5/er-custom-login.php:551
+#: ../trunk/er-custom-login.php:581
+msgid "Total Form width(Enter in pixels). Default: 350px"
+msgstr "کل عرض فرم (به پیکسل). پیش فرض: 350px"
+
+#: ../tags/2.3.0/er-custom-login.php:507 ../tags/2.3.1/er-custom-login.php:507
+#: ../tags/3.0/er-custom-login.php:528 ../tags/3.1/er-custom-login.php:532
+#: ../tags/3.2/er-custom-login.php:532 ../tags/3.3.1/er-custom-login.php:542
+#: ../tags/3.3/er-custom-login.php:541 ../tags/3.4.1/er-custom-login.php:549
+#: ../tags/3.4/er-custom-login.php:548 ../tags/3.5.1/er-custom-login.php:556
+#: ../tags/3.5.2/er-custom-login.php:600 ../tags/3.5.3/er-custom-login.php:569
+#: ../tags/3.5.4/er-custom-login.php:569 ../tags/3.5/er-custom-login.php:555
+#: ../trunk/er-custom-login.php:585
+msgid "Login Form Border Radius:"
+msgstr "اندازه قوس مرز فرم ورود: "
+
+#: ../tags/2.3.0/er-custom-login.php:511 ../tags/2.3.1/er-custom-login.php:511
+#: ../tags/3.0/er-custom-login.php:532 ../tags/3.1/er-custom-login.php:536
+#: ../tags/3.2/er-custom-login.php:536 ../tags/3.3.1/er-custom-login.php:546
+#: ../tags/3.3/er-custom-login.php:545 ../tags/3.4.1/er-custom-login.php:553
+#: ../tags/3.4/er-custom-login.php:552 ../tags/3.5.1/er-custom-login.php:560
+#: ../tags/3.5.2/er-custom-login.php:604 ../tags/3.5.3/er-custom-login.php:573
+#: ../tags/3.5.4/er-custom-login.php:573 ../tags/3.5/er-custom-login.php:559
+#: ../trunk/er-custom-login.php:589
+msgid ""
+"Border Radius of Login Form. This is the option to make the corners rounded."
+"(Enter in pixels)"
+msgstr ""
+"این گزینه باعث قوس دار شدن کنج های فرم ورود می شود. مقدار را به پیکسل وارد "
+"کنید."
+
+#: ../tags/2.3.0/er-custom-login.php:515 ../tags/2.3.1/er-custom-login.php:515
+#: ../tags/3.0/er-custom-login.php:536 ../tags/3.1/er-custom-login.php:540
+#: ../tags/3.2/er-custom-login.php:540 ../tags/3.3.1/er-custom-login.php:550
+#: ../tags/3.3/er-custom-login.php:549 ../tags/3.4.1/er-custom-login.php:557
+#: ../tags/3.4/er-custom-login.php:556 ../tags/3.5.1/er-custom-login.php:564
+#: ../tags/3.5.2/er-custom-login.php:608 ../tags/3.5.3/er-custom-login.php:577
+#: ../tags/3.5.4/er-custom-login.php:577 ../tags/3.5/er-custom-login.php:563
+#: ../trunk/er-custom-login.php:593
+msgid "Login Border Style"
+msgstr "استایل مرز فرم ورود"
+
+#: ../tags/2.3.0/er-custom-login.php:560 ../tags/2.3.1/er-custom-login.php:560
+#: ../tags/3.0/er-custom-login.php:580 ../tags/3.1/er-custom-login.php:584
+#: ../tags/3.2/er-custom-login.php:584 ../tags/3.3.1/er-custom-login.php:594
+#: ../tags/3.3/er-custom-login.php:593 ../tags/3.4.1/er-custom-login.php:601
+#: ../tags/3.4/er-custom-login.php:600 ../tags/3.5.1/er-custom-login.php:608
+#: ../tags/3.5.2/er-custom-login.php:652 ../tags/3.5.3/er-custom-login.php:621
+#: ../tags/3.5.4/er-custom-login.php:621 ../tags/3.5/er-custom-login.php:607
+#: ../trunk/er-custom-login.php:637
+msgid "Select a Border Style option from dropdown."
+msgstr "یکی از گزینه های لیست را انتخاب کنید."
+
+#: ../tags/2.3.0/er-custom-login.php:564 ../tags/2.3.1/er-custom-login.php:564
+#: ../tags/3.0/er-custom-login.php:584 ../tags/3.1/er-custom-login.php:588
+#: ../tags/3.2/er-custom-login.php:588 ../tags/3.3.1/er-custom-login.php:598
+#: ../tags/3.3/er-custom-login.php:597 ../tags/3.4.1/er-custom-login.php:605
+#: ../tags/3.4/er-custom-login.php:604 ../tags/3.5.1/er-custom-login.php:612
+#: ../tags/3.5.2/er-custom-login.php:656 ../tags/3.5.3/er-custom-login.php:625
+#: ../tags/3.5.4/er-custom-login.php:625 ../tags/3.5/er-custom-login.php:611
+#: ../trunk/er-custom-login.php:641
+msgid "Login Border Thickness:"
+msgstr "ضخامت مرز فرم ورود:"
+
+#: ../tags/2.3.0/er-custom-login.php:568 ../tags/2.3.1/er-custom-login.php:568
+#: ../tags/3.0/er-custom-login.php:588 ../tags/3.1/er-custom-login.php:592
+#: ../tags/3.2/er-custom-login.php:592 ../tags/3.3.1/er-custom-login.php:602
+#: ../tags/3.3/er-custom-login.php:601 ../tags/3.4.1/er-custom-login.php:609
+#: ../tags/3.4/er-custom-login.php:608 ../tags/3.5.1/er-custom-login.php:616
+#: ../tags/3.5.2/er-custom-login.php:660 ../tags/3.5.3/er-custom-login.php:629
+#: ../tags/3.5.4/er-custom-login.php:629 ../tags/3.5/er-custom-login.php:615
+#: ../trunk/er-custom-login.php:645
+msgid "Thickness of Border (Enter value in pixels)"
+msgstr "ضخامت مرز (به پیکسل)"
+
+#: ../tags/2.3.0/er-custom-login.php:572 ../tags/2.3.1/er-custom-login.php:572
+#: ../tags/3.0/er-custom-login.php:592 ../tags/3.1/er-custom-login.php:596
+#: ../tags/3.2/er-custom-login.php:596 ../tags/3.3.1/er-custom-login.php:606
+#: ../tags/3.3/er-custom-login.php:605 ../tags/3.4.1/er-custom-login.php:613
+#: ../tags/3.4/er-custom-login.php:612 ../tags/3.5.1/er-custom-login.php:620
+#: ../tags/3.5.2/er-custom-login.php:664 ../tags/3.5.3/er-custom-login.php:633
+#: ../tags/3.5.4/er-custom-login.php:633 ../tags/3.5/er-custom-login.php:619
+#: ../trunk/er-custom-login.php:649
+msgid "Login Border Color:"
+msgstr "رنگ مرز فرم ورود:"
+
+#: ../tags/2.3.0/er-custom-login.php:581 ../tags/2.3.1/er-custom-login.php:581
+#: ../tags/3.0/er-custom-login.php:601 ../tags/3.1/er-custom-login.php:605
+#: ../tags/3.2/er-custom-login.php:605 ../tags/3.3.1/er-custom-login.php:615
+#: ../tags/3.3/er-custom-login.php:614 ../tags/3.4.1/er-custom-login.php:622
+#: ../tags/3.4/er-custom-login.php:621 ../tags/3.5.1/er-custom-login.php:629
+#: ../tags/3.5.2/er-custom-login.php:673 ../tags/3.5.3/er-custom-login.php:642
+#: ../tags/3.5.4/er-custom-login.php:642 ../tags/3.5/er-custom-login.php:628
+#: ../trunk/er-custom-login.php:658
+msgid "Login Form Background Color:"
+msgstr "رنگ پس زمینه فرم ورود:"
+
+#: ../tags/2.3.0/er-custom-login.php:590 ../tags/2.3.1/er-custom-login.php:590
+#: ../tags/3.0/er-custom-login.php:610 ../tags/3.1/er-custom-login.php:614
+#: ../tags/3.2/er-custom-login.php:614 ../tags/3.3.1/er-custom-login.php:625
+#: ../tags/3.3/er-custom-login.php:624 ../tags/3.4.1/er-custom-login.php:632
+#: ../tags/3.4/er-custom-login.php:631 ../tags/3.5.1/er-custom-login.php:639
+#: ../tags/3.5.2/er-custom-login.php:683 ../tags/3.5.3/er-custom-login.php:652
+#: ../tags/3.5.4/er-custom-login.php:652 ../tags/3.5/er-custom-login.php:638
+#: ../trunk/er-custom-login.php:668
+msgid "Login Form Background Image:"
+msgstr "تصویر پس زمینه فرم ورود:"
+
+#: ../tags/2.3.0/er-custom-login.php:593 ../tags/2.3.1/er-custom-login.php:593
+#: ../tags/3.0/er-custom-login.php:613 ../tags/3.1/er-custom-login.php:617
+#: ../tags/3.2/er-custom-login.php:617 ../tags/3.3.1/er-custom-login.php:628
+#: ../tags/3.3/er-custom-login.php:627 ../tags/3.4.1/er-custom-login.php:635
+#: ../tags/3.4/er-custom-login.php:634 ../tags/3.5.1/er-custom-login.php:642
+#: ../tags/3.5.2/er-custom-login.php:686 ../tags/3.5.3/er-custom-login.php:655
+#: ../tags/3.5.4/er-custom-login.php:655 ../tags/3.5/er-custom-login.php:641
+#: ../trunk/er-custom-login.php:671
+msgid ""
+"Add your own pattern/image url to the form background. Leave blank if you "
+"don't need any images."
+msgstr ""
+"مسیر تصویر الگوی خودتان را برای پس زمینه فرم ورود وارد کنید. در صورت عدم "
+"تمایل این گزینه را خالی رها کنید. "
+
+#: ../tags/2.3.0/er-custom-login.php:597 ../tags/2.3.1/er-custom-login.php:597
+#: ../tags/3.0/er-custom-login.php:617 ../tags/3.1/er-custom-login.php:621
+#: ../tags/3.2/er-custom-login.php:621 ../tags/3.3.1/er-custom-login.php:632
+#: ../tags/3.3/er-custom-login.php:631 ../tags/3.4.1/er-custom-login.php:639
+#: ../tags/3.4/er-custom-login.php:638 ../tags/3.5.1/er-custom-login.php:646
+#: ../tags/3.5.2/er-custom-login.php:690 ../tags/3.5.3/er-custom-login.php:659
+#: ../tags/3.5.4/er-custom-login.php:659 ../tags/3.5/er-custom-login.php:645
+#: ../trunk/er-custom-login.php:675
+msgid "Login Form Background Repeat"
+msgstr "تکرار پس زمینه فرم ورود"
+
+#: ../tags/2.3.0/er-custom-login.php:644 ../tags/2.3.1/er-custom-login.php:644
+#: ../tags/3.0/er-custom-login.php:663 ../tags/3.1/er-custom-login.php:667
+#: ../tags/3.2/er-custom-login.php:667 ../tags/3.3.1/er-custom-login.php:678
+#: ../tags/3.3/er-custom-login.php:677 ../tags/3.4.1/er-custom-login.php:685
+#: ../tags/3.4/er-custom-login.php:684 ../tags/3.5.1/er-custom-login.php:692
+#: ../tags/3.5.2/er-custom-login.php:736 ../tags/3.5.3/er-custom-login.php:705
+#: ../tags/3.5.4/er-custom-login.php:705 ../tags/3.5/er-custom-login.php:691
+#: ../trunk/er-custom-login.php:721
+msgid "Vertical Position: "
+msgstr "موقعیت عمودی:"
+
+#: ../tags/2.3.0/er-custom-login.php:652 ../tags/2.3.1/er-custom-login.php:652
+#: ../tags/3.0/er-custom-login.php:671 ../tags/3.1/er-custom-login.php:675
+#: ../tags/3.2/er-custom-login.php:675 ../tags/3.3.1/er-custom-login.php:686
+#: ../tags/3.3/er-custom-login.php:685 ../tags/3.4.1/er-custom-login.php:693
+#: ../tags/3.4/er-custom-login.php:692 ../tags/3.5.1/er-custom-login.php:700
+#: ../tags/3.5.2/er-custom-login.php:744 ../tags/3.5.3/er-custom-login.php:713
+#: ../tags/3.5.4/er-custom-login.php:713 ../tags/3.5/er-custom-login.php:699
+#: ../trunk/er-custom-login.php:729
+msgid "Login Form Label Text Color"
+msgstr "رنگ متن برچسب های فرم ورود"
+
+#: ../tags/2.3.0/er-custom-login.php:657 ../tags/2.3.1/er-custom-login.php:657
+#: ../tags/3.0/er-custom-login.php:676 ../tags/3.1/er-custom-login.php:680
+#: ../tags/3.2/er-custom-login.php:680 ../tags/3.3.1/er-custom-login.php:691
+#: ../tags/3.3/er-custom-login.php:690 ../tags/3.4.1/er-custom-login.php:698
+#: ../tags/3.4/er-custom-login.php:697 ../tags/3.5.1/er-custom-login.php:705
+#: ../tags/3.5.2/er-custom-login.php:749 ../tags/3.5.3/er-custom-login.php:718
+#: ../tags/3.5.4/er-custom-login.php:718 ../tags/3.5/er-custom-login.php:704
+#: ../trunk/er-custom-login.php:734
+msgid ""
+"Click the box to select a color. This will change the color of label Username/"
+"Password"
+msgstr ""
+"برای انتخاب رنگ درون کادر کلیک کنید. این گزینه رنگ برچسب های نام کاربری و رمز "
+"عبور را تغییر میدهد."
+
+#: ../tags/2.3.0/er-custom-login.php:661 ../tags/2.3.1/er-custom-login.php:661
+#: ../tags/3.0/er-custom-login.php:680 ../tags/3.1/er-custom-login.php:684
+#: ../tags/3.2/er-custom-login.php:684 ../tags/3.3.1/er-custom-login.php:695
+#: ../tags/3.3/er-custom-login.php:694 ../tags/3.4.1/er-custom-login.php:702
+#: ../tags/3.4/er-custom-login.php:701 ../tags/3.5.1/er-custom-login.php:709
+#: ../tags/3.5.2/er-custom-login.php:753 ../tags/3.5.3/er-custom-login.php:722
+#: ../tags/3.5.4/er-custom-login.php:722 ../tags/3.5/er-custom-login.php:708
+#: ../trunk/er-custom-login.php:738
+msgid "Login Form Label Text Size:"
+msgstr "اندازه متن برچسب های فرم ورود"
+
+#: ../tags/2.3.0/er-custom-login.php:664 ../tags/2.3.1/er-custom-login.php:664
+#: ../tags/3.0/er-custom-login.php:683 ../tags/3.1/er-custom-login.php:687
+#: ../tags/3.2/er-custom-login.php:687 ../tags/3.3.1/er-custom-login.php:698
+#: ../tags/3.3/er-custom-login.php:697 ../tags/3.4.1/er-custom-login.php:705
+#: ../tags/3.4/er-custom-login.php:704 ../tags/3.5.1/er-custom-login.php:712
+#: ../tags/3.5.2/er-custom-login.php:756 ../tags/3.5.3/er-custom-login.php:725
+#: ../tags/3.5.4/er-custom-login.php:725 ../tags/3.5/er-custom-login.php:711
+#: ../trunk/er-custom-login.php:741
+msgid "Font Size of Label Username/Password(Enter value in pixels)"
+msgstr "اندازه متن برچسب های نام کاربری و رمز عبور (به پیکسل)"
+
+#: ../tags/2.3.0/er-custom-login.php:668 ../tags/2.3.1/er-custom-login.php:668
+#: ../tags/3.0/er-custom-login.php:687 ../tags/3.1/er-custom-login.php:691
+#: ../tags/3.2/er-custom-login.php:691 ../tags/3.3.1/er-custom-login.php:702
+#: ../tags/3.3/er-custom-login.php:701 ../tags/3.4.1/er-custom-login.php:709
+#: ../tags/3.4/er-custom-login.php:708 ../tags/3.5.1/er-custom-login.php:716
+#: ../tags/3.5.2/er-custom-login.php:760 ../tags/3.5.3/er-custom-login.php:729
+#: ../tags/3.5.4/er-custom-login.php:729 ../tags/3.5/er-custom-login.php:715
+#: ../trunk/er-custom-login.php:745
+msgid "Login Form Input Text Color"
+msgstr "رنگ متون درون کادرهای متن فرم ورود"
+
+#: ../tags/2.3.0/er-custom-login.php:673 ../tags/2.3.1/er-custom-login.php:673
+#: ../tags/3.0/er-custom-login.php:692 ../tags/3.1/er-custom-login.php:696
+#: ../tags/3.2/er-custom-login.php:696 ../tags/3.3.1/er-custom-login.php:707
+#: ../tags/3.3/er-custom-login.php:706 ../tags/3.4.1/er-custom-login.php:714
+#: ../tags/3.4/er-custom-login.php:713 ../tags/3.5.1/er-custom-login.php:721
+#: ../tags/3.5.2/er-custom-login.php:765 ../tags/3.5.3/er-custom-login.php:734
+#: ../tags/3.5.4/er-custom-login.php:734 ../tags/3.5/er-custom-login.php:720
+#: ../trunk/er-custom-login.php:750
+msgid ""
+"Click the box to select a color. This will change the color of text inside "
+"text box."
+msgstr ""
+"برای انتخاب رنگ درون کادر کلیک کنید. این گزینه رنگ متون داخل کادرهای ورد متن "
+"فرم ورود را تغییر میدهد."
+
+#: ../tags/2.3.0/er-custom-login.php:677 ../tags/2.3.1/er-custom-login.php:677
+#: ../tags/3.0/er-custom-login.php:696 ../tags/3.1/er-custom-login.php:700
+#: ../tags/3.2/er-custom-login.php:700 ../tags/3.3.1/er-custom-login.php:711
+#: ../tags/3.3/er-custom-login.php:710 ../tags/3.4.1/er-custom-login.php:718
+#: ../tags/3.4/er-custom-login.php:717 ../tags/3.5.1/er-custom-login.php:725
+#: ../tags/3.5.2/er-custom-login.php:769 ../tags/3.5.3/er-custom-login.php:738
+#: ../tags/3.5.4/er-custom-login.php:738 ../tags/3.5/er-custom-login.php:724
+#: ../trunk/er-custom-login.php:754
+msgid "Login Form Input Text Size:"
+msgstr "اندازه متون درون کادرهای متن فرم ورود"
+
+#: ../tags/2.3.0/er-custom-login.php:680 ../tags/2.3.1/er-custom-login.php:680
+#: ../tags/3.0/er-custom-login.php:699 ../tags/3.1/er-custom-login.php:703
+#: ../tags/3.2/er-custom-login.php:703 ../tags/3.3.1/er-custom-login.php:714
+#: ../tags/3.3/er-custom-login.php:713 ../tags/3.4.1/er-custom-login.php:721
+#: ../tags/3.4/er-custom-login.php:720 ../tags/3.5.1/er-custom-login.php:728
+#: ../tags/3.5.2/er-custom-login.php:772 ../tags/3.5.3/er-custom-login.php:741
+#: ../tags/3.5.4/er-custom-login.php:741 ../tags/3.5/er-custom-login.php:727
+#: ../trunk/er-custom-login.php:757
+msgid "Font Size of text inside text box(Enter value in pixels)"
+msgstr "اندازه متون داخل کادرهای ورد متن فرم ورود (به پیکسل)"
+
+#: ../tags/2.3.0/er-custom-login.php:684 ../tags/2.3.1/er-custom-login.php:684
+#: ../tags/3.0/er-custom-login.php:703 ../tags/3.1/er-custom-login.php:707
+#: ../tags/3.2/er-custom-login.php:707 ../tags/3.3.1/er-custom-login.php:718
+#: ../tags/3.3/er-custom-login.php:717 ../tags/3.4.1/er-custom-login.php:725
+#: ../tags/3.4/er-custom-login.php:724 ../tags/3.5.1/er-custom-login.php:732
+#: ../tags/3.5.2/er-custom-login.php:776 ../tags/3.5.3/er-custom-login.php:745
+#: ../tags/3.5.4/er-custom-login.php:745 ../tags/3.5/er-custom-login.php:731
+#: ../trunk/er-custom-login.php:761
+msgid "Login Form Link Color"
+msgstr "رنگ پیوند فرم ورود"
+
+#: ../tags/2.3.0/er-custom-login.php:694 ../tags/2.3.1/er-custom-login.php:694
+#: ../tags/3.0/er-custom-login.php:713 ../tags/3.1/er-custom-login.php:717
+#: ../tags/3.2/er-custom-login.php:717 ../tags/3.3.1/er-custom-login.php:728
+#: ../tags/3.3/er-custom-login.php:727 ../tags/3.4.1/er-custom-login.php:735
+#: ../tags/3.4/er-custom-login.php:734 ../tags/3.5.1/er-custom-login.php:742
+#: ../tags/3.5.2/er-custom-login.php:786 ../tags/3.5.3/er-custom-login.php:755
+#: ../tags/3.5.4/er-custom-login.php:755 ../tags/3.5/er-custom-login.php:741
+#: ../trunk/er-custom-login.php:771
+msgid "Enable link shadow?"
+msgstr "فعال کردن سایه پیوند؟"
+
+#: ../tags/2.3.0/er-custom-login.php:702 ../tags/2.3.0/er-custom-login.php:731
+#: ../tags/2.3.0/er-custom-login.php:782 ../tags/2.3.1/er-custom-login.php:702
+#: ../tags/2.3.1/er-custom-login.php:731 ../tags/2.3.1/er-custom-login.php:782
+#: ../tags/3.0/er-custom-login.php:721 ../tags/3.0/er-custom-login.php:750
+#: ../tags/3.0/er-custom-login.php:801 ../tags/3.1/er-custom-login.php:725
+#: ../tags/3.1/er-custom-login.php:754 ../tags/3.1/er-custom-login.php:805
+#: ../tags/3.2/er-custom-login.php:725 ../tags/3.2/er-custom-login.php:754
+#: ../tags/3.2/er-custom-login.php:805 ../tags/3.3.1/er-custom-login.php:736
+#: ../tags/3.3.1/er-custom-login.php:765 ../tags/3.3.1/er-custom-login.php:816
+#: ../tags/3.3/er-custom-login.php:735 ../tags/3.3/er-custom-login.php:764
+#: ../tags/3.3/er-custom-login.php:815 ../tags/3.4.1/er-custom-login.php:743
+#: ../tags/3.4.1/er-custom-login.php:772 ../tags/3.4.1/er-custom-login.php:823
+#: ../tags/3.4/er-custom-login.php:742 ../tags/3.4/er-custom-login.php:771
+#: ../tags/3.4/er-custom-login.php:822 ../tags/3.5.1/er-custom-login.php:750
+#: ../tags/3.5.1/er-custom-login.php:779 ../tags/3.5.1/er-custom-login.php:830
+#: ../tags/3.5.2/er-custom-login.php:794 ../tags/3.5.2/er-custom-login.php:823
+#: ../tags/3.5.2/er-custom-login.php:864 ../tags/3.5.2/er-custom-login.php:885
+#: ../tags/3.5.2/er-custom-login.php:916 ../tags/3.5.3/er-custom-login.php:763
+#: ../tags/3.5.3/er-custom-login.php:792 ../tags/3.5.3/er-custom-login.php:833
+#: ../tags/3.5.3/er-custom-login.php:854 ../tags/3.5.3/er-custom-login.php:885
+#: ../tags/3.5.4/er-custom-login.php:763 ../tags/3.5.4/er-custom-login.php:792
+#: ../tags/3.5.4/er-custom-login.php:833 ../tags/3.5.4/er-custom-login.php:854
+#: ../tags/3.5.4/er-custom-login.php:885 ../tags/3.5/er-custom-login.php:749
+#: ../tags/3.5/er-custom-login.php:778 ../tags/3.5/er-custom-login.php:829
+#: ../trunk/er-custom-login.php:779 ../trunk/er-custom-login.php:808
+#: ../trunk/er-custom-login.php:860 ../trunk/er-custom-login.php:881
+#: ../trunk/er-custom-login.php:912
+msgid "Yes"
+msgstr "بله"
+
+#: ../tags/2.3.0/er-custom-login.php:706 ../tags/2.3.0/er-custom-login.php:735
+#: ../tags/2.3.0/er-custom-login.php:786 ../tags/2.3.1/er-custom-login.php:706
+#: ../tags/2.3.1/er-custom-login.php:735 ../tags/2.3.1/er-custom-login.php:786
+#: ../tags/3.0/er-custom-login.php:725 ../tags/3.0/er-custom-login.php:754
+#: ../tags/3.0/er-custom-login.php:805 ../tags/3.1/er-custom-login.php:729
+#: ../tags/3.1/er-custom-login.php:758 ../tags/3.1/er-custom-login.php:809
+#: ../tags/3.2/er-custom-login.php:729 ../tags/3.2/er-custom-login.php:758
+#: ../tags/3.2/er-custom-login.php:809 ../tags/3.3.1/er-custom-login.php:740
+#: ../tags/3.3.1/er-custom-login.php:769 ../tags/3.3.1/er-custom-login.php:820
+#: ../tags/3.3/er-custom-login.php:739 ../tags/3.3/er-custom-login.php:768
+#: ../tags/3.3/er-custom-login.php:819 ../tags/3.4.1/er-custom-login.php:747
+#: ../tags/3.4.1/er-custom-login.php:776 ../tags/3.4.1/er-custom-login.php:827
+#: ../tags/3.4/er-custom-login.php:746 ../tags/3.4/er-custom-login.php:775
+#: ../tags/3.4/er-custom-login.php:826 ../tags/3.5.1/er-custom-login.php:754
+#: ../tags/3.5.1/er-custom-login.php:783 ../tags/3.5.1/er-custom-login.php:834
+#: ../tags/3.5.2/er-custom-login.php:798 ../tags/3.5.2/er-custom-login.php:827
+#: ../tags/3.5.2/er-custom-login.php:868 ../tags/3.5.2/er-custom-login.php:889
+#: ../tags/3.5.2/er-custom-login.php:920 ../tags/3.5.3/er-custom-login.php:767
+#: ../tags/3.5.3/er-custom-login.php:796 ../tags/3.5.3/er-custom-login.php:837
+#: ../tags/3.5.3/er-custom-login.php:858 ../tags/3.5.3/er-custom-login.php:889
+#: ../tags/3.5.4/er-custom-login.php:767 ../tags/3.5.4/er-custom-login.php:796
+#: ../tags/3.5.4/er-custom-login.php:837 ../tags/3.5.4/er-custom-login.php:858
+#: ../tags/3.5.4/er-custom-login.php:889 ../tags/3.5/er-custom-login.php:753
+#: ../tags/3.5/er-custom-login.php:782 ../tags/3.5/er-custom-login.php:833
+#: ../trunk/er-custom-login.php:783 ../trunk/er-custom-login.php:812
+#: ../trunk/er-custom-login.php:864 ../trunk/er-custom-login.php:885
+#: ../trunk/er-custom-login.php:916
+msgid "No"
+msgstr "خیر"
+
+#: ../tags/2.3.0/er-custom-login.php:708 ../tags/2.3.0/er-custom-login.php:737
+#: ../tags/2.3.1/er-custom-login.php:708 ../tags/2.3.1/er-custom-login.php:737
+#: ../tags/3.0/er-custom-login.php:727 ../tags/3.0/er-custom-login.php:756
+#: ../tags/3.1/er-custom-login.php:731 ../tags/3.1/er-custom-login.php:760
+#: ../tags/3.2/er-custom-login.php:731 ../tags/3.2/er-custom-login.php:760
+#: ../tags/3.3.1/er-custom-login.php:742 ../tags/3.3.1/er-custom-login.php:771
+#: ../tags/3.3/er-custom-login.php:741 ../tags/3.3/er-custom-login.php:770
+#: ../tags/3.4.1/er-custom-login.php:749 ../tags/3.4.1/er-custom-login.php:778
+#: ../tags/3.4/er-custom-login.php:748 ../tags/3.4/er-custom-login.php:777
+#: ../tags/3.5.1/er-custom-login.php:756 ../tags/3.5.1/er-custom-login.php:785
+#: ../tags/3.5.2/er-custom-login.php:800 ../tags/3.5.2/er-custom-login.php:829
+#: ../tags/3.5.2/er-custom-login.php:870 ../tags/3.5.2/er-custom-login.php:891
+#: ../tags/3.5.3/er-custom-login.php:769 ../tags/3.5.3/er-custom-login.php:798
+#: ../tags/3.5.3/er-custom-login.php:839 ../tags/3.5.3/er-custom-login.php:860
+#: ../tags/3.5.4/er-custom-login.php:769 ../tags/3.5.4/er-custom-login.php:798
+#: ../tags/3.5.4/er-custom-login.php:839 ../tags/3.5.4/er-custom-login.php:860
+#: ../tags/3.5/er-custom-login.php:755 ../tags/3.5/er-custom-login.php:784
+#: ../trunk/er-custom-login.php:785 ../trunk/er-custom-login.php:814
+#: ../trunk/er-custom-login.php:866 ../trunk/er-custom-login.php:887
+msgid "(Check an option)"
+msgstr "(یک گزینه را تیک بزنید)"
+
+#: ../tags/2.3.0/er-custom-login.php:712 ../tags/2.3.1/er-custom-login.php:712
+#: ../tags/3.0/er-custom-login.php:731 ../tags/3.1/er-custom-login.php:735
+#: ../tags/3.2/er-custom-login.php:735 ../tags/3.3.1/er-custom-login.php:746
+#: ../tags/3.3/er-custom-login.php:745 ../tags/3.4.1/er-custom-login.php:753
+#: ../tags/3.4/er-custom-login.php:752 ../tags/3.5.1/er-custom-login.php:760
+#: ../tags/3.5.2/er-custom-login.php:804 ../tags/3.5.3/er-custom-login.php:773
+#: ../tags/3.5.4/er-custom-login.php:773 ../tags/3.5/er-custom-login.php:759
+#: ../trunk/er-custom-login.php:789
+msgid "Login Form Link Shadow Color"
+msgstr "رنگ سایه پیوند فرم ورود"
+
+#: ../tags/2.3.0/er-custom-login.php:723 ../tags/2.3.1/er-custom-login.php:723
+#: ../tags/3.0/er-custom-login.php:742 ../tags/3.1/er-custom-login.php:746
+#: ../tags/3.2/er-custom-login.php:746 ../tags/3.3.1/er-custom-login.php:757
+#: ../tags/3.3/er-custom-login.php:756 ../tags/3.4.1/er-custom-login.php:764
+#: ../tags/3.4/er-custom-login.php:763 ../tags/3.5.1/er-custom-login.php:771
+#: ../tags/3.5.2/er-custom-login.php:815 ../tags/3.5.3/er-custom-login.php:784
+#: ../tags/3.5.4/er-custom-login.php:784 ../tags/3.5/er-custom-login.php:770
+#: ../trunk/er-custom-login.php:800
+msgid "Enable form shadow?"
+msgstr "فعال کردن سایه فرم؟"
+
+#: ../tags/2.3.0/er-custom-login.php:741 ../tags/2.3.1/er-custom-login.php:741
+#: ../tags/3.0/er-custom-login.php:760 ../tags/3.1/er-custom-login.php:764
+#: ../tags/3.2/er-custom-login.php:764 ../tags/3.3.1/er-custom-login.php:775
+#: ../tags/3.3/er-custom-login.php:774 ../tags/3.4.1/er-custom-login.php:782
+#: ../tags/3.4/er-custom-login.php:781 ../tags/3.5.1/er-custom-login.php:789
+#: ../tags/3.5.2/er-custom-login.php:833 ../tags/3.5.3/er-custom-login.php:802
+#: ../tags/3.5.4/er-custom-login.php:802 ../tags/3.5/er-custom-login.php:788
+#: ../trunk/er-custom-login.php:818
+msgid "Login Form Shadow Color"
+msgstr "رنگ سایه فرم ورود"
+
+#: ../tags/2.3.0/er-custom-login.php:753 ../tags/2.3.1/er-custom-login.php:753
+#: ../tags/3.0/er-custom-login.php:772 ../tags/3.1/er-custom-login.php:776
+#: ../tags/3.2/er-custom-login.php:776 ../tags/3.3.1/er-custom-login.php:787
+#: ../tags/3.3/er-custom-login.php:786 ../tags/3.4.1/er-custom-login.php:794
+#: ../tags/3.4/er-custom-login.php:793 ../tags/3.5.1/er-custom-login.php:801
+#: ../tags/3.5.2/er-custom-login.php:845 ../tags/3.5.3/er-custom-login.php:814
+#: ../tags/3.5.4/er-custom-login.php:814 ../tags/3.5/er-custom-login.php:800
+#: ../trunk/er-custom-login.php:830
+msgid "Login Button Color"
+msgstr "رنگ کلید ورود"
+
+#: ../tags/2.3.0/er-custom-login.php:769 ../tags/2.3.1/er-custom-login.php:769
+#: ../tags/3.0/er-custom-login.php:788 ../tags/3.1/er-custom-login.php:792
+#: ../tags/3.2/er-custom-login.php:792 ../tags/3.3.1/er-custom-login.php:803
+#: ../tags/3.3/er-custom-login.php:802 ../tags/3.4.1/er-custom-login.php:810
+#: ../tags/3.4/er-custom-login.php:809 ../tags/3.5.1/er-custom-login.php:817
+#: ../tags/3.5.2/er-custom-login.php:903 ../tags/3.5.3/er-custom-login.php:872
+#: ../tags/3.5.4/er-custom-login.php:872 ../tags/3.5/er-custom-login.php:816
+#: ../trunk/er-custom-login.php:899
+msgid "Plugin Un-install Settings"
+msgstr "تنظیمات حذف و غیر فعال کردن افزونه"
+
+#: ../tags/2.3.0/er-custom-login.php:774 ../tags/2.3.1/er-custom-login.php:774
+#: ../tags/3.0/er-custom-login.php:793 ../tags/3.1/er-custom-login.php:797
+#: ../tags/3.2/er-custom-login.php:797 ../tags/3.3.1/er-custom-login.php:808
+#: ../tags/3.3/er-custom-login.php:807 ../tags/3.4.1/er-custom-login.php:815
+#: ../tags/3.4/er-custom-login.php:814 ../tags/3.5.1/er-custom-login.php:822
+#: ../tags/3.5.2/er-custom-login.php:908 ../tags/3.5.3/er-custom-login.php:877
+#: ../tags/3.5.4/er-custom-login.php:877 ../tags/3.5/er-custom-login.php:821
+#: ../trunk/er-custom-login.php:904
+msgid "Delete custom settings upon plugin deactivation?"
+msgstr ""
+"آیا مایلید تنظیمات سفارشی شده افزونه وقتی افزونه غیرفعال می شود حذف گردد؟"
+
+#: ../tags/2.3.0/er-custom-login.php:788 ../tags/2.3.1/er-custom-login.php:788
+#: ../tags/3.0/er-custom-login.php:807 ../tags/3.1/er-custom-login.php:811
+#: ../tags/3.2/er-custom-login.php:811 ../tags/3.3.1/er-custom-login.php:822
+#: ../tags/3.3/er-custom-login.php:821 ../tags/3.4.1/er-custom-login.php:829
+#: ../tags/3.4/er-custom-login.php:828 ../tags/3.5.1/er-custom-login.php:836
+#: ../tags/3.5.2/er-custom-login.php:922 ../tags/3.5.3/er-custom-login.php:891
+#: ../tags/3.5.4/er-custom-login.php:891 ../tags/3.5/er-custom-login.php:835
+#: ../trunk/er-custom-login.php:918
+msgid ""
+"(If you set \"Yes\" all custom settings will be deleted from database upon "
+"plugin deactivation)"
+msgstr ""
+"(اگر بله را انتخاب کنید تمام تنظیماتی که تاکنون سفارشی کرده اید هنگام غیرفعال "
+"کردن افزونه از پایگاه داده وردپرس حذف خواهد شد) "
+
+#: ../tags/2.3.0/er-custom-login.php:808 ../tags/2.3.1/er-custom-login.php:809
+#: ../tags/3.0/er-custom-login.php:857 ../tags/3.1/er-custom-login.php:861
+#: ../tags/3.2/er-custom-login.php:861 ../tags/3.3.1/er-custom-login.php:872
+#: ../tags/3.3/er-custom-login.php:871 ../tags/3.4.1/er-custom-login.php:879
+#: ../tags/3.4/er-custom-login.php:878 ../tags/3.5.1/er-custom-login.php:886
+#: ../tags/3.5.2/er-custom-login.php:972 ../tags/3.5.3/er-custom-login.php:941
+#: ../tags/3.5.4/er-custom-login.php:941 ../tags/3.5/er-custom-login.php:885
+#: ../trunk/er-custom-login.php:968
+msgid "Open Your WP Login Page in a New Tab"
+msgstr "بازشدن صفحه ورود وردپرس در زبانه جدید"
+
+#: ../tags/2.3.0/er-custom-login.php:809 ../tags/2.3.1/er-custom-login.php:810
+#: ../tags/3.0/er-custom-login.php:858 ../tags/3.1/er-custom-login.php:862
+#: ../tags/3.2/er-custom-login.php:862 ../tags/3.3.1/er-custom-login.php:873
+#: ../tags/3.3/er-custom-login.php:872 ../tags/3.4.1/er-custom-login.php:880
+#: ../tags/3.4/er-custom-login.php:879 ../tags/3.5.1/er-custom-login.php:887
+#: ../tags/3.5.2/er-custom-login.php:973 ../tags/3.5.3/er-custom-login.php:942
+#: ../tags/3.5.4/er-custom-login.php:942 ../tags/3.5/er-custom-login.php:886
+#: ../trunk/er-custom-login.php:969
+msgid "Plugin Documentation"
+msgstr "مستندات افزونه"
+
+#: ../tags/2.3.0/er-custom-login.php:810 ../tags/2.3.1/er-custom-login.php:811
+#: ../tags/3.0/er-custom-login.php:859 ../tags/3.1/er-custom-login.php:863
+#: ../tags/3.2/er-custom-login.php:863 ../tags/3.3.1/er-custom-login.php:874
+#: ../tags/3.3/er-custom-login.php:873 ../tags/3.4.1/er-custom-login.php:881
+#: ../tags/3.4/er-custom-login.php:880 ../tags/3.5.1/er-custom-login.php:888
+#: ../tags/3.5.2/er-custom-login.php:974 ../tags/3.5.3/er-custom-login.php:943
+#: ../tags/3.5.4/er-custom-login.php:943 ../tags/3.5/er-custom-login.php:887
+#: ../trunk/er-custom-login.php:970
+msgid "Plugin Support Page"
+msgstr "صفحه پشتیبانی افزونه"
+
+#: ../tags/2.3.0/er-custom-login.php:811 ../tags/2.3.1/er-custom-login.php:812
+#: ../tags/3.0/er-custom-login.php:860 ../tags/3.1/er-custom-login.php:864
+#: ../tags/3.2/er-custom-login.php:864 ../tags/3.3.1/er-custom-login.php:875
+#: ../tags/3.3/er-custom-login.php:874 ../tags/3.4.1/er-custom-login.php:882
+#: ../tags/3.4/er-custom-login.php:881 ../tags/3.5.1/er-custom-login.php:889
+#: ../tags/3.5.2/er-custom-login.php:975 ../tags/3.5.3/er-custom-login.php:944
+#: ../tags/3.5.4/er-custom-login.php:944 ../tags/3.5/er-custom-login.php:888
+#: ../trunk/er-custom-login.php:971
+msgid "Feature Request/Suggestions?"
+msgstr "درخواست ویژگی جدید یا پیشنهاد یا انتقادی دارید؟"
+
+#: ../tags/2.3.0/er-custom-login.php:812 ../tags/2.3.1/er-custom-login.php:813
+#: ../tags/3.0/er-custom-login.php:861 ../tags/3.1/er-custom-login.php:865
+#: ../tags/3.2/er-custom-login.php:865 ../tags/3.3.1/er-custom-login.php:876
+#: ../tags/3.3/er-custom-login.php:875 ../tags/3.4.1/er-custom-login.php:883
+#: ../tags/3.4/er-custom-login.php:882 ../tags/3.5.1/er-custom-login.php:890
+#: ../tags/3.5.2/er-custom-login.php:976 ../tags/3.5.3/er-custom-login.php:945
+#: ../tags/3.5.4/er-custom-login.php:945 ../tags/3.5/er-custom-login.php:889
+#: ../trunk/er-custom-login.php:972
+msgid "Got some Love? Give us a 5 star rating!"
+msgstr "دوستداری یک حرکت دوستانه انجام بدی؟ پس به ما یک امتیاز 5 ستاره بده!"
+
+#: ../tags/2.3.0/er-custom-login.php:816 ../tags/2.3.1/er-custom-login.php:817
+#: ../tags/3.0/er-custom-login.php:865 ../tags/3.1/er-custom-login.php:869
+#: ../tags/3.2/er-custom-login.php:869 ../tags/3.3.1/er-custom-login.php:880
+#: ../tags/3.3/er-custom-login.php:879 ../tags/3.4.1/er-custom-login.php:887
+#: ../tags/3.4/er-custom-login.php:886 ../tags/3.5.1/er-custom-login.php:894
+#: ../tags/3.5.2/er-custom-login.php:986 ../tags/3.5.3/er-custom-login.php:955
+#: ../tags/3.5.4/er-custom-login.php:955 ../tags/3.5/er-custom-login.php:893
+#: ../trunk/er-custom-login.php:982
+msgid "Hire Me"
+msgstr "مرا استخدام کن"
+
+#: ../tags/2.3.0/er-custom-login.php:817 ../tags/2.3.1/er-custom-login.php:818
+#: ../tags/3.0/er-custom-login.php:866 ../tags/3.1/er-custom-login.php:870
+#: ../tags/3.2/er-custom-login.php:870 ../tags/3.3.1/er-custom-login.php:881
+#: ../tags/3.3/er-custom-login.php:880 ../tags/3.4.1/er-custom-login.php:888
+#: ../tags/3.4/er-custom-login.php:887 ../tags/3.5.1/er-custom-login.php:895
+#: ../tags/3.5.2/er-custom-login.php:987 ../tags/3.5.3/er-custom-login.php:956
+#: ../tags/3.5.4/er-custom-login.php:956 ../tags/3.5/er-custom-login.php:894
+#: ../trunk/er-custom-login.php:983
+msgid ""
+"Hey, I'm Libin, a professional Front End Engineer/WordPress Developer. You "
+"can hire me for freelancing projects.<br/><br/>Email me: <a href=\"mailto:"
+"libin@libin.in\">libin@libin.in</a> <br/>Online Portfolio: <a href=\"http://"
+"www.libin.in\" target=\"_blank\">www.libin.in</a>"
+msgstr ""
+"سلام من لیبین هستم، یک توسعه دهنده حرفه ای وردپرس، آماده همکاری در پروژه های "
+"شما بصورت فریلنسری.<br/><br/>ایمیل من:<a href=\"mailto:libin@libin.in"
+"\">libin@libin.in</a><br/>مشاهده نمونه کارهای من بصورت  آنلاین:<a href="
+"\"http://www.libin.in\" target=\"_blank\">www.libin.in</a>"
+
+#: ../tags/2.3.1/er-custom-login.php:807 ../tags/3.0/er-custom-login.php:855
+#: ../tags/3.1/er-custom-login.php:859 ../tags/3.2/er-custom-login.php:859
+#: ../tags/3.3.1/er-custom-login.php:870 ../tags/3.3/er-custom-login.php:869
+#: ../tags/3.4.1/er-custom-login.php:877 ../tags/3.4/er-custom-login.php:876
+#: ../tags/3.5.1/er-custom-login.php:884 ../tags/3.5.2/er-custom-login.php:970
+#: ../tags/3.5.3/er-custom-login.php:939 ../tags/3.5.4/er-custom-login.php:939
+#: ../tags/3.5/er-custom-login.php:883 ../trunk/er-custom-login.php:966
+msgid "Quick Links"
+msgstr "دسترسی سریع"
+
+#: ../tags/2.3.1/er-custom-login.php:820 ../tags/3.0/er-custom-login.php:868
+#: ../tags/3.1/er-custom-login.php:872 ../tags/3.2/er-custom-login.php:872
+#: ../tags/3.3.1/er-custom-login.php:883 ../tags/3.3/er-custom-login.php:882
+#: ../tags/3.4.1/er-custom-login.php:890 ../tags/3.4/er-custom-login.php:889
+#: ../tags/3.5.1/er-custom-login.php:897 ../tags/3.5.2/er-custom-login.php:989
+#: ../tags/3.5.3/er-custom-login.php:958 ../tags/3.5.4/er-custom-login.php:958
+#: ../tags/3.5/er-custom-login.php:896 ../trunk/er-custom-login.php:986
+msgid "Translation Credits"
+msgstr "دستاندرکاران ترجمه"
+
+#: ../tags/2.3.1/er-custom-login.php:822 ../tags/3.0/er-custom-login.php:870
+#: ../tags/3.1/er-custom-login.php:874 ../tags/3.2/er-custom-login.php:874
+#: ../tags/3.3.1/er-custom-login.php:885 ../tags/3.3/er-custom-login.php:884
+#: ../tags/3.4.1/er-custom-login.php:892 ../tags/3.4/er-custom-login.php:891
+#: ../tags/3.5.1/er-custom-login.php:899 ../tags/3.5.2/er-custom-login.php:991
+#: ../tags/3.5.3/er-custom-login.php:960 ../tags/3.5.4/er-custom-login.php:960
+#: ../tags/3.5/er-custom-login.php:898 ../trunk/er-custom-login.php:988
+msgid ""
+"Spanish by <a href=\"http://www.linkedin.com/in/adrifolio\" target=\"_blank"
+"\">Adriana De La Cuadra</a>"
+msgstr ""
+"اسپانیایی توسط <a href=\"http://www.linkedin.com/in/adrifolio\" target="
+"\"_blank\">Adriana De La Cuadra</a>"
+
+#: ../tags/2.3.1/er-custom-login.php:824 ../tags/3.0/er-custom-login.php:873
+#: ../tags/3.1/er-custom-login.php:877 ../tags/3.2/er-custom-login.php:878
+#: ../tags/3.3.1/er-custom-login.php:889 ../tags/3.3/er-custom-login.php:888
+#: ../tags/3.4.1/er-custom-login.php:897 ../tags/3.4/er-custom-login.php:896
+#: ../tags/3.5.1/er-custom-login.php:906 ../tags/3.5.2/er-custom-login.php:998
+#: ../tags/3.5.3/er-custom-login.php:967 ../tags/3.5.4/er-custom-login.php:967
+#: ../tags/3.5/er-custom-login.php:905 ../trunk/er-custom-login.php:995
+msgid "Do you wants to translate this plugin to your language? Email me!"
+msgstr ""
+"مایل به ترجمه این افزونه به زبان خودتان هستید؟ فایل ترجمه را برای من ایمیل "
+"کنید!"
+
+#: ../tags/3.0/er-custom-login.php:215 ../tags/3.1/er-custom-login.php:215
+#: ../tags/3.2/er-custom-login.php:215 ../tags/3.3.1/er-custom-login.php:224
+#: ../tags/3.3/er-custom-login.php:223 ../tags/3.4.1/er-custom-login.php:231
+#: ../tags/3.4/er-custom-login.php:230 ../tags/3.5.1/er-custom-login.php:236
+#: ../tags/3.5.2/er-custom-login.php:257 ../tags/3.5.3/er-custom-login.php:257
+#: ../tags/3.5.4/er-custom-login.php:257 ../tags/3.5/er-custom-login.php:235
+#: ../trunk/er-custom-login.php:271
+msgid "Please upload a valid .json file"
+msgstr "لطفاً یک فایل json معتبر بارگزاری کنید."
+
+#: ../tags/3.0/er-custom-login.php:221 ../tags/3.1/er-custom-login.php:221
+#: ../tags/3.2/er-custom-login.php:221 ../tags/3.3.1/er-custom-login.php:230
+#: ../tags/3.3/er-custom-login.php:229 ../tags/3.4.1/er-custom-login.php:237
+#: ../tags/3.4/er-custom-login.php:236 ../tags/3.5.1/er-custom-login.php:242
+#: ../tags/3.5.2/er-custom-login.php:263 ../tags/3.5.3/er-custom-login.php:263
+#: ../tags/3.5.4/er-custom-login.php:263 ../tags/3.5/er-custom-login.php:241
+#: ../trunk/er-custom-login.php:277
+msgid "Please upload a file to import"
+msgstr "لطفاً یک فایل برای درون ریزی آپلود کنید"
+
+#: ../tags/3.0/er-custom-login.php:228 ../tags/3.1/er-custom-login.php:228
+#: ../tags/3.2/er-custom-login.php:228 ../tags/3.3.1/er-custom-login.php:237
+#: ../tags/3.3/er-custom-login.php:236 ../tags/3.4.1/er-custom-login.php:244
+#: ../tags/3.4/er-custom-login.php:243 ../tags/3.5.1/er-custom-login.php:249
+#: ../tags/3.5.2/er-custom-login.php:270 ../tags/3.5.3/er-custom-login.php:270
+#: ../tags/3.5.4/er-custom-login.php:270 ../tags/3.5/er-custom-login.php:248
+#: ../trunk/er-custom-login.php:284
+msgid "New settings imported successfully!"
+msgstr "تنظیمات جدید با موفقیت وارد شد!"
+
+#: ../tags/3.0/er-custom-login.php:341 ../tags/3.1/er-custom-login.php:345
+#: ../tags/3.2/er-custom-login.php:345 ../tags/3.3.1/er-custom-login.php:355
+#: ../tags/3.3/er-custom-login.php:354 ../tags/3.4.1/er-custom-login.php:362
+#: ../tags/3.4/er-custom-login.php:361 ../tags/3.5.1/er-custom-login.php:368
+#: ../tags/3.5.2/er-custom-login.php:411 ../tags/3.5.3/er-custom-login.php:380
+#: ../tags/3.5.4/er-custom-login.php:380 ../tags/3.5/er-custom-login.php:367
+#: ../trunk/er-custom-login.php:395
+msgid "Settings saved."
+msgstr "تغییرات ذخیره شد."
+
+#: ../tags/3.0/er-custom-login.php:822 ../tags/3.1/er-custom-login.php:826
+#: ../tags/3.2/er-custom-login.php:826 ../tags/3.3.1/er-custom-login.php:837
+#: ../tags/3.3/er-custom-login.php:836 ../tags/3.4.1/er-custom-login.php:844
+#: ../tags/3.4/er-custom-login.php:843 ../tags/3.5.1/er-custom-login.php:851
+#: ../tags/3.5.2/er-custom-login.php:937 ../tags/3.5.3/er-custom-login.php:906
+#: ../tags/3.5.4/er-custom-login.php:906 ../tags/3.5/er-custom-login.php:850
+#: ../trunk/er-custom-login.php:933
+msgid "Export Settings"
+msgstr "برون بری تنظیمات"
+
+#: ../tags/3.0/er-custom-login.php:824 ../tags/3.1/er-custom-login.php:828
+#: ../tags/3.2/er-custom-login.php:828 ../tags/3.3.1/er-custom-login.php:839
+#: ../tags/3.3/er-custom-login.php:838 ../tags/3.4.1/er-custom-login.php:846
+#: ../tags/3.4/er-custom-login.php:845 ../tags/3.5.1/er-custom-login.php:853
+#: ../tags/3.5.2/er-custom-login.php:939 ../tags/3.5.3/er-custom-login.php:908
+#: ../tags/3.5.4/er-custom-login.php:908 ../tags/3.5/er-custom-login.php:852
+#: ../trunk/er-custom-login.php:935
+msgid ""
+"Export the plugin settings for this site as a .json file. This allows you to "
+"easily import the configuration into another site."
+msgstr ""
+"برون بری تنظیمات افزونه در این سایت در قالب یک فایل json. این امکان به شما "
+"اجازه می دهد تا تنظیمات حاضر را در سایت دیگری درون ریزی کرده و استفاده کنید."
+
+#: ../tags/3.0/er-custom-login.php:829 ../tags/3.1/er-custom-login.php:833
+#: ../tags/3.2/er-custom-login.php:833 ../tags/3.3.1/er-custom-login.php:844
+#: ../tags/3.3/er-custom-login.php:843 ../tags/3.4.1/er-custom-login.php:851
+#: ../tags/3.4/er-custom-login.php:850 ../tags/3.5.1/er-custom-login.php:858
+#: ../tags/3.5.2/er-custom-login.php:944 ../tags/3.5.3/er-custom-login.php:913
+#: ../tags/3.5.4/er-custom-login.php:913 ../tags/3.5/er-custom-login.php:857
+#: ../trunk/er-custom-login.php:940
+msgid "Export"
+msgstr "برون بری"
+
+#: ../tags/3.0/er-custom-login.php:837 ../tags/3.1/er-custom-login.php:841
+#: ../tags/3.2/er-custom-login.php:841 ../tags/3.3.1/er-custom-login.php:852
+#: ../tags/3.3/er-custom-login.php:851 ../tags/3.4.1/er-custom-login.php:859
+#: ../tags/3.4/er-custom-login.php:858 ../tags/3.5.1/er-custom-login.php:866
+#: ../tags/3.5.2/er-custom-login.php:952 ../tags/3.5.3/er-custom-login.php:921
+#: ../tags/3.5.4/er-custom-login.php:921 ../tags/3.5/er-custom-login.php:865
+#: ../trunk/er-custom-login.php:948
+msgid "Import Settings"
+msgstr "تنظیمات درون ریزی"
+
+#: ../tags/3.0/er-custom-login.php:839 ../tags/3.1/er-custom-login.php:843
+#: ../tags/3.2/er-custom-login.php:843 ../tags/3.3.1/er-custom-login.php:854
+#: ../tags/3.3/er-custom-login.php:853 ../tags/3.4.1/er-custom-login.php:861
+#: ../tags/3.4/er-custom-login.php:860 ../tags/3.5.1/er-custom-login.php:868
+#: ../tags/3.5.2/er-custom-login.php:954 ../tags/3.5.3/er-custom-login.php:923
+#: ../tags/3.5.4/er-custom-login.php:923 ../tags/3.5/er-custom-login.php:867
+#: ../trunk/er-custom-login.php:950
+msgid ""
+"Import the plugin settings from a .json file. This file can be obtained by "
+"exporting the settings on another site using the form above."
+msgstr ""
+"درون ریزی تنظیمات افزونه از یک فایل json. این فایل را می توان از فرم بالا در "
+"یک سایت دیگر که این افزونه بر روی آن نصب شده بدست آورد."
+
+#: ../tags/3.0/er-custom-login.php:847 ../tags/3.1/er-custom-login.php:851
+#: ../tags/3.2/er-custom-login.php:851 ../tags/3.3.1/er-custom-login.php:862
+#: ../tags/3.3/er-custom-login.php:861 ../tags/3.4.1/er-custom-login.php:869
+#: ../tags/3.4/er-custom-login.php:868 ../tags/3.5.1/er-custom-login.php:876
+#: ../tags/3.5.2/er-custom-login.php:962 ../tags/3.5.3/er-custom-login.php:931
+#: ../tags/3.5.4/er-custom-login.php:931 ../tags/3.5/er-custom-login.php:875
+#: ../trunk/er-custom-login.php:958
+msgid "Import"
+msgstr "درون ریزی"
+
+#: ../tags/3.0/er-custom-login.php:871 ../tags/3.1/er-custom-login.php:875
+#: ../tags/3.2/er-custom-login.php:875 ../tags/3.3.1/er-custom-login.php:886
+#: ../tags/3.3/er-custom-login.php:885 ../tags/3.4.1/er-custom-login.php:893
+#: ../tags/3.4/er-custom-login.php:892 ../tags/3.5.1/er-custom-login.php:900
+#: ../tags/3.5.2/er-custom-login.php:992 ../tags/3.5.3/er-custom-login.php:961
+#: ../tags/3.5.4/er-custom-login.php:961 ../tags/3.5/er-custom-login.php:899
+#: ../trunk/er-custom-login.php:989
+msgid ""
+"French by <a href=\"https://www.linkedin.com/pub/vaslin-guillaume/38/35a/5aa"
+"\" target=\"_blank\">Guillaume Vaslin</a>"
+msgstr ""
+"فرانسوی توسط <a href=\"https://www.linkedin.com/pub/vaslin-"
+"guillaume/38/35a/5aa\" target=\"_blank\">Guillaume Vaslin</a>"
+
+#: ../tags/3.2/er-custom-login.php:876 ../tags/3.3.1/er-custom-login.php:887
+#: ../tags/3.3/er-custom-login.php:886 ../tags/3.4.1/er-custom-login.php:894
+#: ../tags/3.4/er-custom-login.php:893 ../tags/3.5.1/er-custom-login.php:901
+#: ../tags/3.5.2/er-custom-login.php:993 ../tags/3.5.3/er-custom-login.php:962
+#: ../tags/3.5.4/er-custom-login.php:962 ../tags/3.5/er-custom-login.php:900
+#: ../trunk/er-custom-login.php:990
+msgid ""
+"German by <a href=\"http://www.starsofvietnam.net/\" target=\"_blank\">Peter "
+"Kaulfuss</a>"
+msgstr ""
+"آلمانی توسط <a href=\"http://www.starsofvietnam.net/\" target=\"_blank"
+"\">Peter Kaulfuss</a>"
+
+#: ../tags/3.3.1/er-custom-login.php:619 ../tags/3.3/er-custom-login.php:618
+#: ../tags/3.4.1/er-custom-login.php:626 ../tags/3.4/er-custom-login.php:625
+#: ../tags/3.5.1/er-custom-login.php:633 ../tags/3.5.2/er-custom-login.php:677
+#: ../tags/3.5.3/er-custom-login.php:646 ../tags/3.5.4/er-custom-login.php:646
+#: ../tags/3.5/er-custom-login.php:632 ../trunk/er-custom-login.php:662
+msgid "Background Opacity: "
+msgstr "درصد تاری پس زمینه (Opacity):"
+
+#: ../tags/3.3.1/er-custom-login.php:621 ../tags/3.3/er-custom-login.php:620
+#: ../tags/3.4.1/er-custom-login.php:628 ../tags/3.4/er-custom-login.php:627
+#: ../tags/3.5.1/er-custom-login.php:635 ../tags/3.5.2/er-custom-login.php:679
+#: ../tags/3.5.3/er-custom-login.php:648 ../tags/3.5.4/er-custom-login.php:648
+#: ../tags/3.5/er-custom-login.php:634 ../trunk/er-custom-login.php:664
+msgid ""
+"Click the box to select a color. Background Opacity will helps you to put "
+"transparent color over a background image. Possible values 0 to 1. Example: "
+"0.5 means 50% transparency. Default: 1 <a href=\"https://wordpress.org/"
+"plugins/erident-custom-login-and-dashboard/faq/\" target=\"_blank\">More "
+"Info</a>"
+msgstr ""
+"برای انتخا رنگ درون کادر کلیک کنید. تاری پس زمینه کمک می کند تا یک زنگ شفاف "
+"را روی تصویر پس زمینه قرار دهید. مقادیر مجاز از 0 تا 1. مثال: 0.5 یعنی 50% "
+"شفافیت. پیش فرض: 1 <a href=\"https://wordpress.org/plugins/erident-custom-"
+"login-and-dashboard/faq/\" target=\"_blank\">اطلاعات بیشتر</a>"
+
+#: ../tags/3.4.1/er-custom-login.php:415 ../tags/3.4.1/er-custom-login.php:633
+#: ../tags/3.4/er-custom-login.php:414 ../tags/3.4/er-custom-login.php:632
+#: ../tags/3.5.1/er-custom-login.php:422 ../tags/3.5.1/er-custom-login.php:640
+#: ../tags/3.5.2/er-custom-login.php:466 ../tags/3.5.2/er-custom-login.php:684
+#: ../tags/3.5.3/er-custom-login.php:435 ../tags/3.5.3/er-custom-login.php:653
+#: ../tags/3.5.4/er-custom-login.php:435 ../tags/3.5.4/er-custom-login.php:653
+#: ../tags/3.5/er-custom-login.php:421 ../tags/3.5/er-custom-login.php:639
+#: ../trunk/er-custom-login.php:451 ../trunk/er-custom-login.php:669
+msgid "Add Background Image"
+msgstr "اضافه کردن تصویر پس زمینه"
+
+#: ../tags/3.4.1/er-custom-login.php:497 ../tags/3.4/er-custom-login.php:496
+#: ../tags/3.5.1/er-custom-login.php:504 ../tags/3.5.2/er-custom-login.php:548
+#: ../tags/3.5.3/er-custom-login.php:517 ../tags/3.5.4/er-custom-login.php:517
+#: ../tags/3.5/er-custom-login.php:503 ../trunk/er-custom-login.php:533
+msgid "Add Logo"
+msgstr "اضافه کردن لوگو"
+
+#: ../tags/3.4.1/er-custom-login.php:895 ../tags/3.4/er-custom-login.php:894
+#: ../tags/3.5.1/er-custom-login.php:902 ../tags/3.5.2/er-custom-login.php:994
+#: ../tags/3.5.3/er-custom-login.php:963 ../tags/3.5.4/er-custom-login.php:963
+#: ../tags/3.5/er-custom-login.php:901 ../trunk/er-custom-login.php:991
+msgid ""
+"Turkish by <a href=\"https://www.linkedin.com/profile/view?id=335577895\" "
+"target=\"_blank\">Muhammet Küçük</a>"
+msgstr ""
+"ترکی توسط <a href=\"https://www.linkedin.com/profile/view?id=335577895\" "
+"target=\"_blank\">Muhammet Küçük</a>"
+
+#: ../tags/3.5.1/er-custom-login.php:395 ../tags/3.5.2/er-custom-login.php:439
+#: ../tags/3.5.3/er-custom-login.php:408 ../tags/3.5.4/er-custom-login.php:408
+#: ../tags/3.5/er-custom-login.php:394 ../trunk/er-custom-login.php:424
+msgid ""
+"This will replace the default \"WordPress Version\" on the bottom right side "
+"of dashboard. Keep it as empty field for disabling this feature. Refresh the "
+"page again to see the result after saving."
+msgstr ""
+"این متن جایگزین متن نسخه وردپرس در سمت چپ پانوشت پیشخوان خواهد شد. آن را به "
+"عنوان زمینه خالی برای غیر فعال کردن این ویژگی. دوباره صفحه را تازه کنید برای "
+"دیدن نتیجه پس از ذخیره. برای غیرفعال کردن این ویژگی گزینه آن را خالی رها "
+"کنید. برای دیدن نتیجه پس از ذخیره تغییرات صفحه را مجدداً بارگزاری (تازه سازی) "
+"کنید."
+
+#: ../tags/3.5.1/er-custom-login.php:903 ../tags/3.5.2/er-custom-login.php:995
+#: ../tags/3.5.3/er-custom-login.php:964 ../tags/3.5.4/er-custom-login.php:964
+#: ../tags/3.5/er-custom-login.php:902 ../trunk/er-custom-login.php:992
+msgid ""
+"Persian by <a href=\"https://about.me/reza.heydari\" target=\"_blank\">Reza "
+"Heydari</a>"
+msgstr ""
+"فارسی شده توسط <a href=\"https://about.me/reza.heydari\" target=\"_blank"
+"\">Reza Heydari</a>"
+
+#: ../tags/3.5.1/er-custom-login.php:904 ../tags/3.5.2/er-custom-login.php:996
+#: ../tags/3.5.3/er-custom-login.php:965 ../tags/3.5.4/er-custom-login.php:965
+#: ../trunk/er-custom-login.php:993
+msgid ""
+"Portuguese-Brazil by <a href=\"https://www.facebook.com/samuel.desconsi\" "
+"target=\"_blank\">Samuel Desconsi </a>"
+msgstr ""
+
+#: ../tags/3.5.2/er-custom-login.php:856 ../tags/3.5.3/er-custom-login.php:825
+#: ../tags/3.5.4/er-custom-login.php:825 ../trunk/er-custom-login.php:852
+msgid "Hide Register | Lost your password link"
+msgstr "مخفی کردن ثبت نام | از دست داده لینک رمز عبور خود را"
+
+#: ../tags/3.5.2/er-custom-login.php:877 ../tags/3.5.3/er-custom-login.php:846
+#: ../tags/3.5.4/er-custom-login.php:846 ../trunk/er-custom-login.php:873
+msgid "Hide Back to your website link"
+msgstr "مخفی کردن برگشت به لینک وب سایت خود را"
+
+#: ../tags/3.5/er-custom-login.php:903
+msgid ""
+"Portuguese-Brazil by <a href=\"https://www.facebook.com/home.php?"
+"m2w&refid=8\" target=\"_blank\">Reza Heydari</a>"
+msgstr ""
+"پرتغالی برزیل-توسط <a href=\"https://www.facebook.com/home.php?m2w&refid=8\" "
+"target=\"_blank\">Reza Heydari</a>"
+
+#: ../trunk/er-custom-login.php:57
+msgid "Support"
+msgstr "حمایت کردن"
+
+#: ../trunk/er-custom-login.php:841
+msgid "Login Button Text Color"
+msgstr "دکمه ورود رنگ متن"
