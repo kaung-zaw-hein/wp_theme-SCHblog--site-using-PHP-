@@ -1,0 +1,113 @@
+.wp-erident-dashboard .er-textfield {
+	width:400px;
+	padding:5px;
+}
+.wp-erident-dashboard .er-textfield-small {
+	padding:5px;
+	width:130px;
+}
+.wp-erident-dashboard td {
+	margin-bottom: 9px;
+	padding: 8px 10px;
+	line-height: 20px;
+	font-size: 12px;
+}
+.wp-erident-dashboard th {
+	vertical-align: top;
+	text-align: left;
+	padding: 10px;
+	width: 220px;
+	font-weight:normal;
+}
+#ilctabscolorpicker, #ilctabscolorpicker2, #ilctabscolorpicker3, #ilctabscolorpicker4, #ilctabscolorpicker5, #ilctabscolorpicker6, #ilctabscolorpicker7, #ilctabscolorpicker8, #ilctabscolorpicker9, #ilctabscolorpicker10 {
+	margin-left:210px;
+	position:absolute;
+}
+#ilctabscolorpicker {
+	margin-top:-90px;
+}
+#ilctabscolorpicker2 {
+	margin-top:-160px;
+}
+#ilctabscolorpicker3 {
+	margin-top:-50px;
+}
+#ilctabscolorpicker4 {
+	margin-top:-160px;
+}
+#ilctabscolorpicker5 {
+	margin-top:-55px;
+}
+#ilctabscolorpicker6 {
+	margin-top:-160px;
+}
+#ilctabscolorpicker7 {
+	margin-top:-170px;
+}
+#ilctabscolorpicker8 {
+	margin-top:-55px;
+}
+#ilctabscolorpicker9 {
+	margin-top:-170px;
+}
+#ilctabscolorpicker10 {
+	margin-top:-170px;
+}
+
+.er_notice {
+	padding: 10px 20px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	background: lightYellow;
+	border: 1px solid #E6DB55;
+	margin: 10px 5px 10px 0;
+	float: left;
+	width: 46%;
+	min-width: 310px;
+}
+.er_notice2 {
+	color: #00529B;
+	background-color: #BDE5F8;
+	border: 1px solid;
+	margin: 10px 0px;
+	padding:15px 20px;
+	width: 45%;
+	float: left;
+	margin-right: 10px;
+	min-width: 260px;
+}
+.er_notice2.orange {
+  background-color: #ffeed0;
+  border-color: orange;
+  color: #444;
+}
+.wp-erident-dashboard select {
+	height:30px;
+}
+.settings_page_erident-custom-login-and-dashboard .postbox .hndle {
+	padding:5px;
+}
+.settings_page_erident-custom-login-and-dashboard .postbox .hndle span {
+font-size: 15px;
+}
+.settings_page_erident-custom-login-and-dashboard .postbox .hndle .postbox-title-action {
+	font-size:12px;
+	font-style:italic;
+	padding-left:5px;
+}
+.er_notice2 li.login-page a {
+	color:red;
+}
+.er_notice2 li.green a {
+	color:green;
+}
+.settings_page_erident-custom-login-and-dashboard .inside {
+	display: none;
+}
+.settings_page_erident-custom-login-and-dashboard .inside.openinside {
+	display: block;
+}
+.clearfix {
+  clear: both;
+}
